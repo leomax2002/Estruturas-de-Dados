@@ -1,0 +1,584 @@
+list
+play
+stop
+add w
+add w
+stop
+list
+stop
+add w
+del w
+current
+del w
+play
+del w
+next w
+undo *
+undo
+stop
+stop
+del w
+current
+play
+del w
+play
+undo
+undo *
+stop
+play
+next w
+play
+list
+ended
+ended
+list
+play
+undo
+current
+add w
+ended
+undo
+stop
+current
+current
+add w
+undo
+add w
+current
+ended
+undo *
+next w
+next w
+list
+current
+undo *
+ended
+ended
+add w
+ended
+current
+ended
+add w
+ended
+del w
+play
+add w
+current
+add w
+del w
+list
+undo
+play
+undo
+add w
+stop
+play
+next w
+current
+add w
+list
+current
+list
+ended
+list
+play
+next w
+del w
+del w
+stop
+add w
+next w
+play
+undo *
+current
+undo
+stop
+undo
+current
+del w
+ended
+undo
+del w
+list
+next w
+play
+del w
+stop
+list
+play
+stop
+undo
+stop
+del w
+del w
+list
+next w
+stop
+undo
+current
+del w
+next w
+list
+undo *
+next w
+current
+add w
+play
+ended
+list
+del w
+undo
+list
+next w
+undo *
+del w
+add w
+ended
+stop
+play
+current
+next w
+del w
+add w
+current
+ended
+undo *
+play
+del w
+play
+list
+next w
+next w
+add w
+undo
+ended
+current
+stop
+list
+next w
+play
+play
+play
+current
+undo *
+undo
+del w
+play
+add w
+next w
+ended
+stop
+del w
+ended
+current
+stop
+ended
+stop
+current
+add w
+stop
+add w
+current
+current
+play
+undo *
+current
+undo *
+add w
+list
+undo *
+ended
+undo *
+list
+undo *
+del w
+current
+add w
+current
+del w
+play
+del w
+current
+add w
+del w
+del w
+list
+ended
+undo *
+next w
+ended
+play
+add w
+del w
+next w
+ended
+add w
+del w
+list
+list
+current
+list
+stop
+next w
+stop
+ended
+add w
+stop
+del w
+play
+ended
+stop
+del w
+undo *
+stop
+next w
+add w
+add w
+ended
+add w
+play
+add w
+next w
+next w
+list
+del w
+list
+ended
+undo *
+add w
+ended
+next w
+stop
+list
+add w
+list
+list
+current
+del w
+play
+undo
+ended
+next w
+undo *
+ended
+add w
+del w
+del w
+undo
+current
+ended
+next w
+next w
+ended
+ended
+undo *
+del w
+add w
+list
+play
+ended
+del w
+add w
+next w
+del w
+del w
+add w
+current
+del w
+stop
+ended
+current
+del w
+current
+stop
+current
+list
+play
+stop
+play
+current
+ended
+next w
+play
+play
+add w
+play
+del w
+current
+del w
+stop
+del w
+play
+ended
+add w
+del w
+undo
+add w
+undo *
+undo *
+list
+ended
+ended
+ended
+undo *
+play
+play
+play
+current
+ended
+ended
+list
+ended
+play
+del w
+add w
+next w
+play
+current
+del w
+list
+add w
+del w
+list
+list
+undo *
+del w
+ended
+next w
+current
+ended
+stop
+add w
+add w
+stop
+next w
+play
+next w
+play
+list
+ended
+next w
+del w
+list
+undo
+ended
+list
+del w
+list
+next w
+undo *
+play
+del w
+play
+add w
+list
+add w
+ended
+del w
+ended
+add w
+del w
+add w
+undo *
+undo
+list
+list
+current
+next w
+current
+undo *
+current
+undo *
+del w
+stop
+del w
+del w
+ended
+add w
+play
+del w
+undo *
+del w
+ended
+del w
+list
+current
+list
+add w
+undo *
+list
+undo
+del w
+del w
+add w
+stop
+stop
+next w
+ended
+list
+del w
+current
+next w
+add w
+add w
+stop
+current
+play
+stop
+add w
+play
+next w
+undo
+stop
+play
+stop
+play
+undo *
+stop
+stop
+del w
+del w
+next w
+add w
+undo *
+play
+play
+stop
+add w
+next w
+list
+stop
+add w
+stop
+next w
+undo *
+stop
+play
+play
+undo
+del w
+add w
+stop
+stop
+ended
+next w
+del w
+list
+list
+play
+ended
+current
+ended
+play
+current
+list
+play
+current
+del w
+del w
+ended
+del w
+next w
+undo
+list
+stop
+add w
+add w
+add w
+add w
+list
+play
+play
+next w
+del w
+current
+current
+del w
+list
+del w
+ended
+list
+play
+add w
+list
+play
+add w
+del w
+play
+play
+add w
+list
+add w
+stop
+ended
+current
+current
+undo *
+undo *
+next w
+play
+ended
+play
+del w
+add w
+add w
+add w
+play
+play
+play
+undo *
+current
+current
+play
+next w
+ended
+next w
+ended
+ended
+play
+ended
+del w
+del w
+add w
+add w
+del w
+del w
+undo
+stop
+list
+play
+ended
+play
+list
+current
+play
+current
+next w
+current
+del w
+del w
+current
+undo *
+undo
+del w
+list
+ended
+stop
+current
+play
+ended
+undo
+undo
+current
+current
+add w
+ended
+list
+add w
+ended
+play
+next w
+next w
+add w
+play
+fight

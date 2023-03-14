@@ -1,0 +1,87 @@
+play
+del onf
+undo
+undo *
+play
+next B
+current
+list
+undo *
+del z
+add B
+current
+ended
+current
+ended
+undo *
+add z
+next B
+del z
+list
+del zHjwIKmJy
+stop
+play
+stop
+next z
+undo *
+list
+undo *
+stop
+list
+ended
+next bxoJppb
+undo *
+next xUPGVb
+current
+add RgOJ
+del B
+play
+list
+del RgOJ
+list
+play
+ended
+play
+next B
+current
+next m
+list
+add onf
+current
+add RgOJ
+undo
+list
+undo *
+current
+play
+play
+next xUPGVb
+current
+add bxoJppb
+add B
+play
+undo *
+play
+stop
+play
+next m
+stop
+next xUPGVb
+stop
+undo
+add RgOJ
+del Hz
+stop
+add bxoJppb
+undo *
+list
+ended
+ended
+list
+ended
+next B
+play
+list
+current
+stop
+fight

@@ -1,0 +1,9 @@
+undo
+undo *
+next j
+del DINb
+list
+del j
+ended
+stop
+fight

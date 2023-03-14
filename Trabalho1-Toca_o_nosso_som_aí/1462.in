@@ -1,0 +1,34 @@
+add WwiNcVgXNc
+list
+add DMh
+stop
+next DMh
+ended
+undo *
+list
+del DMh
+del DMh
+current
+next bCYqVkl
+play
+stop
+current
+undo
+del WwiNcVgXNc
+add DMh
+next bCYqVkl
+next bCYqVkl
+add bCYqVkl
+undo
+current
+del bCYqVkl
+add WwiNcVgXNc
+add DMh
+add DMh
+play
+add WwiNcVgXNc
+next DMh
+add DMh
+ended
+ended
+fight

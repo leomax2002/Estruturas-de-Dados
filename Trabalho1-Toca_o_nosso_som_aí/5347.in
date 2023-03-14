@@ -1,0 +1,51 @@
+undo *
+list
+play
+add l
+add AGeYCcux
+list
+stop
+add l
+undo
+play
+play
+play
+play
+stop
+next l
+current
+play
+add AGeYCcux
+current
+del l
+del AGeYCcux
+list
+undo
+undo *
+play
+list
+ended
+list
+add AGeYCcux
+del l
+undo *
+del AGeYCcux
+undo *
+play
+current
+undo
+del l
+add AGeYCcux
+del l
+del l
+add AGeYCcux
+undo *
+ended
+add l
+next l
+play
+play
+del l
+ended
+undo *
+fight

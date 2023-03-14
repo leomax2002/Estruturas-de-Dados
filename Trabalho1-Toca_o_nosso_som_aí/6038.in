@@ -1,0 +1,35 @@
+undo *
+list
+del NAxz
+play
+del NAxz
+undo
+play
+add DQ
+add DQ
+add DQ
+stop
+del DQ
+next NAxz
+undo
+ended
+del DQ
+del NAxz
+del DQ
+play
+next NAxz
+list
+ended
+add uOb
+current
+undo
+next DQ
+list
+current
+next DQ
+stop
+list
+play
+next DQ
+add NAxz
+fight

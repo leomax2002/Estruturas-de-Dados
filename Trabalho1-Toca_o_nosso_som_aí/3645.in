@@ -1,0 +1,885 @@
+undo *
+current
+list
+add y
+next mns
+next mns
+current
+current
+undo *
+current
+add y
+del mns
+play
+add y
+undo
+del mns
+play
+ended
+add mns
+del y
+next y
+ended
+play
+del y
+ended
+undo
+play
+ended
+stop
+list
+ended
+stop
+play
+current
+ended
+undo
+next mns
+del mns
+list
+play
+next y
+add y
+next y
+ended
+ended
+play
+ended
+del y
+ended
+play
+play
+ended
+del y
+stop
+list
+undo
+current
+list
+current
+list
+list
+next y
+del y
+undo *
+undo
+play
+ended
+stop
+list
+play
+del y
+play
+current
+stop
+stop
+del y
+stop
+current
+ended
+del mns
+list
+list
+ended
+ended
+current
+ended
+next mns
+ended
+list
+list
+ended
+stop
+stop
+add mns
+del mns
+del y
+play
+undo
+current
+del y
+next mns
+current
+ended
+current
+next mns
+ended
+list
+add y
+stop
+list
+stop
+current
+list
+list
+current
+del y
+ended
+ended
+next mns
+undo *
+current
+undo
+ended
+ended
+add y
+next y
+stop
+undo
+list
+next y
+undo *
+list
+ended
+add y
+undo
+del y
+list
+del y
+next y
+ended
+list
+add mns
+next mns
+del y
+add y
+ended
+add y
+list
+del y
+del mns
+stop
+list
+current
+del mns
+ended
+ended
+next y
+add mns
+undo
+play
+list
+play
+add y
+undo *
+current
+stop
+current
+play
+list
+ended
+undo *
+stop
+play
+add mns
+current
+stop
+del mns
+current
+add mns
+play
+del mns
+stop
+list
+ended
+stop
+play
+play
+ended
+next mns
+current
+next y
+del mns
+del mns
+undo
+play
+list
+ended
+del y
+stop
+del mns
+ended
+add mns
+list
+add y
+play
+ended
+stop
+current
+stop
+current
+del y
+play
+del y
+stop
+add y
+stop
+stop
+add y
+del mns
+undo *
+ended
+del y
+del mns
+next y
+del mns
+stop
+ended
+current
+undo
+ended
+undo
+ended
+current
+ended
+list
+undo
+add mns
+stop
+add mns
+ended
+next mns
+list
+add mns
+current
+add mns
+del y
+next y
+current
+play
+next mns
+del mns
+list
+current
+add y
+stop
+next y
+add y
+play
+next mns
+undo
+current
+del y
+undo *
+current
+next mns
+play
+add y
+next mns
+stop
+stop
+play
+undo *
+list
+del mns
+current
+play
+ended
+ended
+current
+next y
+del y
+current
+current
+next y
+ended
+current
+undo *
+del y
+del y
+list
+undo *
+undo *
+stop
+play
+ended
+current
+add y
+undo
+add mns
+list
+play
+undo
+current
+play
+play
+del y
+list
+del mns
+add mns
+list
+del y
+undo
+current
+play
+del mns
+play
+ended
+ended
+ended
+add mns
+del y
+current
+undo *
+ended
+list
+list
+add mns
+next mns
+del mns
+current
+add mns
+ended
+add y
+list
+undo
+add mns
+current
+del mns
+stop
+ended
+undo
+current
+undo *
+play
+play
+stop
+list
+list
+del y
+next mns
+add mns
+play
+next y
+current
+next mns
+list
+list
+stop
+del y
+add y
+stop
+list
+add y
+del mns
+list
+ended
+play
+list
+next y
+del mns
+current
+del y
+undo
+list
+add mns
+current
+ended
+list
+ended
+next y
+current
+next mns
+list
+undo *
+add y
+list
+ended
+next mns
+add y
+next mns
+undo
+add y
+undo
+current
+current
+add y
+list
+undo
+list
+stop
+play
+list
+del y
+play
+add mns
+del mns
+undo *
+list
+undo *
+current
+ended
+add mns
+list
+next y
+list
+next y
+next y
+next mns
+play
+next y
+play
+undo *
+ended
+undo
+add mns
+undo
+stop
+undo
+current
+next mns
+undo
+stop
+ended
+current
+undo
+ended
+list
+current
+next mns
+add y
+undo
+ended
+add y
+play
+undo *
+del mns
+del y
+play
+ended
+del mns
+play
+next mns
+del y
+stop
+next y
+play
+undo
+stop
+list
+ended
+next mns
+list
+play
+del y
+current
+ended
+list
+add mns
+list
+current
+stop
+current
+play
+del mns
+next y
+undo *
+del mns
+current
+add mns
+stop
+play
+list
+undo
+undo *
+play
+add y
+stop
+play
+del mns
+undo *
+next y
+del mns
+play
+undo
+stop
+ended
+ended
+stop
+stop
+list
+list
+list
+ended
+current
+ended
+list
+del y
+list
+current
+add mns
+ended
+add mns
+del mns
+del y
+del mns
+list
+stop
+ended
+play
+stop
+next mns
+ended
+list
+undo *
+next mns
+stop
+play
+play
+current
+play
+del mns
+list
+stop
+next mns
+del mns
+undo *
+stop
+list
+next y
+list
+stop
+ended
+ended
+ended
+list
+current
+ended
+ended
+next y
+play
+del y
+play
+stop
+ended
+stop
+add mns
+ended
+add mns
+play
+current
+undo
+add y
+add mns
+current
+next y
+ended
+del y
+list
+ended
+undo *
+ended
+add mns
+ended
+current
+current
+current
+ended
+ended
+next mns
+ended
+current
+list
+del y
+ended
+ended
+next mns
+stop
+play
+play
+play
+del mns
+next mns
+add mns
+add y
+del mns
+current
+current
+next y
+undo
+play
+list
+next y
+ended
+current
+undo *
+next y
+undo *
+add mns
+next y
+current
+del mns
+del mns
+play
+del mns
+stop
+next mns
+play
+current
+next y
+current
+stop
+ended
+stop
+list
+undo
+del mns
+ended
+stop
+next y
+del y
+play
+undo
+add y
+undo *
+next mns
+undo *
+ended
+undo *
+next mns
+list
+ended
+ended
+list
+current
+ended
+ended
+ended
+add mns
+play
+next y
+undo *
+stop
+add y
+add y
+stop
+undo *
+stop
+undo
+next y
+current
+play
+add y
+current
+play
+next mns
+current
+del y
+del mns
+play
+add mns
+stop
+current
+undo
+stop
+play
+current
+list
+stop
+play
+next y
+current
+add y
+add mns
+ended
+ended
+undo *
+current
+undo *
+current
+next y
+stop
+play
+add mns
+ended
+add mns
+current
+play
+del mns
+current
+next mns
+stop
+ended
+list
+list
+next mns
+current
+stop
+del mns
+del mns
+add y
+next mns
+stop
+list
+add y
+del mns
+list
+ended
+next y
+play
+list
+del y
+list
+next y
+next mns
+add y
+current
+next mns
+add mns
+stop
+ended
+current
+next mns
+current
+undo
+current
+play
+next mns
+stop
+ended
+ended
+undo
+undo
+list
+stop
+add y
+del y
+stop
+list
+next mns
+play
+stop
+current
+play
+list
+undo
+next y
+ended
+list
+next mns
+play
+play
+list
+ended
+del mns
+list
+next mns
+del y
+current
+next mns
+stop
+ended
+play
+add mns
+undo
+undo *
+add y
+play
+next mns
+list
+list
+current
+add y
+current
+undo *
+undo
+undo *
+play
+next y
+del mns
+play
+undo *
+next mns
+list
+del y
+current
+stop
+play
+next mns
+play
+ended
+ended
+ended
+play
+del y
+current
+stop
+undo *
+del y
+list
+del mns
+next mns
+ended
+del mns
+play
+current
+stop
+undo
+del mns
+list
+add y
+current
+next mns
+del y
+undo *
+current
+add y
+play
+stop
+ended
+stop
+add mns
+play
+undo *
+play
+list
+stop
+undo *
+list
+next mns
+play
+add mns
+ended
+current
+play
+play
+add mns
+del y
+play
+undo *
+ended
+list
+play
+current
+play
+stop
+ended
+stop
+next mns
+list
+list
+del mns
+next y
+stop
+next y
+stop
+current
+stop
+list
+play
+del mns
+next y
+add mns
+stop
+stop
+undo
+play
+list
+add y
+next y
+del y
+play
+list
+add mns
+undo
+fight

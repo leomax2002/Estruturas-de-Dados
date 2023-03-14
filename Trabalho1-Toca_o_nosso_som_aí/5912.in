@@ -1,0 +1,60 @@
+stop
+next nVdTHqjnR
+current
+play
+add vli
+del tl
+stop
+add vli
+next nVdTHqjnR
+stop
+undo *
+undo *
+undo
+next a
+next a
+next tl
+play
+list
+ended
+list
+ended
+undo *
+stop
+add vli
+stop
+del a
+current
+undo
+add a
+add vli
+add nVdTHqjnR
+add vli
+current
+add a
+play
+add nVdTHqjnR
+add vli
+current
+current
+add a
+del tl
+ended
+ended
+play
+next vli
+current
+del a
+del tl
+stop
+next nVdTHqjnR
+stop
+stop
+undo *
+ended
+undo *
+current
+play
+current
+ended
+fight

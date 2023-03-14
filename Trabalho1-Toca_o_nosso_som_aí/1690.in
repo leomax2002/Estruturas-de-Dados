@@ -1,0 +1,52 @@
+current
+play
+stop
+next z
+play
+ended
+ended
+current
+next z
+add XGtRZYGq
+ended
+play
+next XGtRZYGq
+current
+undo *
+undo
+add z
+stop
+del XGtRZYGq
+play
+stop
+add XGtRZYGq
+current
+list
+del z
+add XGtRZYGq
+current
+ended
+list
+next XGtRZYGq
+current
+play
+undo *
+stop
+del XGtRZYGq
+stop
+play
+del XGtRZYGq
+current
+del z
+ended
+add XGtRZYGq
+next z
+del XGtRZYGq
+list
+play
+play
+list
+ended
+ended
+next XGtRZYGq
+fight

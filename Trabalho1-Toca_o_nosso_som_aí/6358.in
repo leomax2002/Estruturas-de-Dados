@@ -1,0 +1,51 @@
+del alQxAwnH
+play
+current
+undo *
+list
+play
+add alQxAwnH
+current
+del alQxAwnH
+stop
+list
+undo *
+del alQxAwnH
+stop
+play
+next alQxAwnH
+next alQxAwnH
+ended
+play
+stop
+list
+undo
+current
+next alQxAwnH
+next alQxAwnH
+undo
+next alQxAwnH
+del alQxAwnH
+current
+current
+next alQxAwnH
+current
+add alQxAwnH
+undo
+add alQxAwnH
+list
+ended
+next alQxAwnH
+ended
+add alQxAwnH
+stop
+add alQxAwnH
+stop
+undo
+next alQxAwnH
+list
+del alQxAwnH
+stop
+next alQxAwnH
+undo *
+fight

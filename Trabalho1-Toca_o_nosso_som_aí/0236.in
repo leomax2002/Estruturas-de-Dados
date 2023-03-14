@@ -1,0 +1,74 @@
+stop
+add JY
+del kEpgS
+list
+del wPkLC
+play
+play
+add kEpgS
+ended
+next kEpgS
+next JY
+current
+add wPkLC
+play
+list
+ended
+stop
+play
+stop
+stop
+current
+ended
+ended
+del JY
+next JY
+ended
+next JY
+next wPkLC
+ended
+play
+add wPkLC
+next JY
+next JY
+ended
+add kEpgS
+current
+next kEpgS
+ended
+current
+play
+next wPkLC
+del JY
+play
+list
+del wPkLC
+undo *
+current
+add JY
+ended
+del JY
+next wPkLC
+del kEpgS
+next kEpgS
+ended
+play
+ended
+add wPkLC
+add wPkLC
+current
+next wPkLC
+list
+ended
+del wPkLC
+next wPkLC
+del wPkLC
+current
+current
+play
+ended
+current
+del kEpgS
+stop
+play
+fight

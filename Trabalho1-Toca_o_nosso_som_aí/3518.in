@@ -1,0 +1,63 @@
+add OSVfpoys
+stop
+ended
+current
+next ZinHIHF
+del ZinHIHF
+add J
+list
+next ZinHIHF
+stop
+add J
+del ZinHIHF
+next OSVfpoys
+play
+add J
+play
+next OSVfpoys
+stop
+stop
+del OSVfpoys
+del ZinHIHF
+next OSVfpoys
+ended
+ended
+add J
+current
+play
+del OSVfpoys
+undo
+current
+stop
+ended
+undo
+stop
+add OSVfpoys
+del J
+stop
+stop
+current
+play
+ended
+del J
+undo *
+undo
+ended
+del J
+ended
+undo
+current
+undo
+ended
+ended
+ended
+undo
+ended
+list
+add OSVfpoys
+current
+del OSVfpoys
+current
+undo
+undo
+fight

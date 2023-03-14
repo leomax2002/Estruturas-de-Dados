@@ -1,0 +1,30 @@
+next pgCMIJ
+current
+ended
+list
+next pgCMIJ
+undo
+next pgCMIJ
+current
+play
+list
+add pgCMIJ
+list
+ended
+del pgCMIJ
+undo
+ended
+play
+list
+stop
+play
+add pgCMIJ
+ended
+add pgCMIJ
+next pgCMIJ
+list
+play
+current
+stop
+undo
+fight

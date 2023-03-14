@@ -1,0 +1,121 @@
+add iIStML
+add GvVJ
+add qZV
+del GvVJ
+current
+list
+list
+del iIStML
+del iIStML
+play
+del qZV
+current
+ended
+stop
+del GvVJ
+stop
+add qZV
+stop
+ended
+play
+del iIStML
+current
+list
+list
+undo *
+undo *
+list
+undo
+next iIStML
+next GvVJ
+undo
+play
+play
+ended
+list
+list
+ended
+ended
+play
+play
+undo
+play
+next GvVJ
+del GvVJ
+stop
+del iIStML
+current
+add iIStML
+ended
+ended
+stop
+current
+ended
+current
+current
+ended
+play
+ended
+undo
+add GvVJ
+next qZV
+ended
+current
+play
+next ORB
+del qZV
+undo *
+next GvVJ
+next iIStML
+ended
+undo
+list
+play
+stop
+stop
+ended
+undo
+add GvVJ
+ended
+undo *
+stop
+undo *
+undo *
+add GvVJ
+current
+del ORB
+list
+del iIStML
+add qZV
+ended
+list
+del GvVJ
+next qZV
+next qZV
+add iIStML
+undo *
+list
+play
+ended
+next qZV
+add ORB
+ended
+current
+del GvVJ
+stop
+current
+del ORB
+stop
+undo *
+ended
+del GvVJ
+add ORB
+next ORB
+current
+add iIStML
+play
+stop
+undo *
+next iIStML
+del GvVJ
+fight

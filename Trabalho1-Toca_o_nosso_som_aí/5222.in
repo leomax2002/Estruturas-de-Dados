@@ -1,0 +1,38 @@
+add I
+list
+stop
+current
+current
+play
+del I
+next I
+stop
+stop
+del I
+ended
+del I
+next I
+undo *
+undo
+add I
+list
+del I
+del I
+next I
+undo
+next I
+stop
+list
+stop
+del I
+play
+ended
+ended
+add I
+next I
+list
+stop
+del I
+list
+ended
+fight

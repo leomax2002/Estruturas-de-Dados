@@ -1,0 +1,141 @@
+ifOV,S,S
+S
+S
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+[vazia]
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+[vazia]
+[vazia]
+[vazia]
+[vazia]
+Toque! Toque, Dijê!
+pyuuFiqAo,S
+pyuuFiqAo
+pyuuFiqAo,S
+pyuuFiqAo,S
+pyuuFiqAo
+Toque! Toque, Dijê!
+[vazia]
+ifOV
+ifOV
+S,ifOV,pyuuFiqAo
+[vazia]
+[vazia]
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+Toque! Toque, Dijê!
+[vazia]
+ifOV
+ifOV
+ifOV,ifOV,S
+ifOV
+baTz
+ifOV,ifOV,S,baTz,pyuuFiqAo,pyuuFiqAo,S,ifOV
+baTz
+baTz
+baTz
+baTz
+ifOV,ifOV,S,baTz,pyuuFiqAo,S,ifOV
+baTz
+ifOV,ifOV,S,baTz,pyuuFiqAo,S,ifOV
+ifOV,ifOV,S,baTz,S,ifOV,pyuuFiqAo
+S
+ifOV,baTz,S,S,ifOV,ifOV,pyuuFiqAo
+ifOV
+pyuuFiqAo
+pyuuFiqAo
+S
+ifOV,ifOV,S,S,ifOV
+ifOV,ifOV,S,S,ifOV
+ifOV,ifOV,S,baTz,pyuuFiqAo,S,ifOV
+S
+ifOV,ifOV,pyuuFiqAo,S,ifOV,baTz
+ifOV,ifOV,pyuuFiqAo,S,ifOV,baTz,S
+pyuuFiqAo
+ifOV,ifOV,S,pyuuFiqAo,ifOV,S
+ifOV,S,pyuuFiqAo,ifOV,ifOV,S
+ifOV,ifOV,pyuuFiqAo,ifOV,S,baTz,S,ifOV
+ifOV,ifOV,pyuuFiqAo,ifOV,S,baTz,S,ifOV
+pyuuFiqAo
+pyuuFiqAo
+ifOV,ifOV,pyuuFiqAo,ifOV,S,baTz,S,ifOV
+pyuuFiqAo
+ifOV,ifOV,S,baTz,S,ifOV,baTz,pyuuFiqAo,ifOV
+ifOV,ifOV,S,baTz,S,ifOV,baTz,pyuuFiqAo,ifOV
+ifOV
+ifOV,ifOV,baTz,pyuuFiqAo,S,ifOV,pyuuFiqAo
+ifOV,ifOV,baTz,S,ifOV,pyuuFiqAo,baTz
+ifOV,ifOV,baTz,pyuuFiqAo,S,ifOV,baTz,S
+pyuuFiqAo
+baTz
+ifOV,ifOV,S,baTz,pyuuFiqAo,S,ifOV
+pyuuFiqAo
+ifOV,ifOV,baTz,pyuuFiqAo,S,ifOV
+ifOV,ifOV,S,baTz,pyuuFiqAo,S,ifOV
+pyuuFiqAo
+pyuuFiqAo
+ifOV,ifOV,S,pyuuFiqAo,S,baTz,ifOV,pyuuFiqAo
+ifOV,S,S,baTz,ifOV,pyuuFiqAo,pyuuFiqAo,ifOV
+ifOV,S,ifOV,pyuuFiqAo,pyuuFiqAo,ifOV,baTz
+baTz
+S,S,ifOV,baTz,pyuuFiqAo,pyuuFiqAo,ifOV,baTz
+S,S,ifOV,baTz,pyuuFiqAo,pyuuFiqAo,ifOV,baTz
+S,S,ifOV,baTz,pyuuFiqAo,pyuuFiqAo,ifOV,baTz
+S,S,ifOV,baTz,pyuuFiqAo,pyuuFiqAo,ifOV,baTz
+S
+S
+S
+S
+S
+S
+ifOV,S,S,pyuuFiqAo,ifOV,pyuuFiqAo,pyuuFiqAo,baTz,pyuuFiqAo
+pyuuFiqAo
+ifOV
+S,S,pyuuFiqAo,baTz,ifOV,pyuuFiqAo,pyuuFiqAo,ifOV
+baTz
+baTz
+S,ifOV,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,ifOV,ifOV,S,S
+baTz
+S,pyuuFiqAo,ifOV,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+pyuuFiqAo,ifOV,S,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,baTz
+pyuuFiqAo,ifOV,S,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,baTz,baTz
+ifOV
+pyuuFiqAo
+pyuuFiqAo
+baTz
+baTz
+baTz
+S,S,ifOV,baTz,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,ifOV,pyuuFiqAo,ifOV
+ifOV
+S,S,pyuuFiqAo,baTz,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+baTz
+S,S,pyuuFiqAo,baTz,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,baTz,ifOV
+baTz
+S,S,pyuuFiqAo,baTz,ifOV,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+baTz
+S,S,pyuuFiqAo,baTz,ifOV,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+baTz
+S,S,baTz,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,S
+S,S,baTz,pyuuFiqAo,pyuuFiqAo,S
+S
+pyuuFiqAo
+pyuuFiqAo
+pyuuFiqAo
+pyuuFiqAo,baTz,S,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+pyuuFiqAo,baTz,S,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo,pyuuFiqAo
+pyuuFiqAo
+baTz,pyuuFiqAo,S,pyuuFiqAo,pyuuFiqAo
+pyuuFiqAo
+baTz
+pyuuFiqAo
+pyuuFiqAo
+S,pyuuFiqAo,pyuuFiqAo,baTz,pyuuFiqAo,pyuuFiqAo
+baTz
+baTz
+S,pyuuFiqAo,pyuuFiqAo,baTz,pyuuFiqAo,pyuuFiqAo,baTz,ifOV
+Jedi Wagner, assuma o comando!

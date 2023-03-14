@@ -1,0 +1,247 @@
+add fkCx
+add wBy
+undo *
+current
+next wBy
+list
+add fkCx
+stop
+undo *
+del fkCx
+add fkCx
+list
+del NtQfeZU
+current
+ended
+list
+next NtQfeZU
+add fkCx
+undo *
+ended
+play
+stop
+del fkCx
+undo
+list
+next NtQfeZU
+next wBy
+stop
+ended
+del NtQfeZU
+list
+list
+stop
+list
+del wBy
+add wBy
+current
+stop
+play
+undo *
+current
+next fkCx
+list
+ended
+del NtQfeZU
+undo
+del NtQfeZU
+list
+add wBy
+ended
+add wBy
+play
+current
+list
+add fkCx
+play
+add fkCx
+add NtQfeZU
+add NtQfeZU
+ended
+add NtQfeZU
+next NtQfeZU
+list
+list
+undo
+add NtQfeZU
+add fkCx
+current
+del NtQfeZU
+list
+add fkCx
+del fkCx
+add wBy
+stop
+ended
+undo
+undo
+del fkCx
+del fkCx
+current
+stop
+play
+play
+stop
+add fkCx
+current
+list
+list
+undo *
+undo *
+current
+list
+undo *
+current
+ended
+del NtQfeZU
+next wBy
+undo *
+stop
+stop
+del fkCx
+add fkCx
+stop
+list
+list
+play
+next NtQfeZU
+undo *
+play
+play
+ended
+list
+current
+undo
+play
+play
+undo
+current
+del fkCx
+play
+del fkCx
+add NtQfeZU
+undo *
+play
+next wBy
+ended
+list
+current
+add wBy
+list
+next fkCx
+play
+undo *
+play
+undo
+add fkCx
+ended
+next fkCx
+current
+del fkCx
+next fkCx
+add fkCx
+ended
+undo
+del NtQfeZU
+del NtQfeZU
+undo *
+add wBy
+del fkCx
+del fkCx
+play
+del fkCx
+undo *
+del fkCx
+del fkCx
+add NtQfeZU
+list
+next wBy
+next fkCx
+next wBy
+list
+current
+undo
+del wBy
+ended
+current
+next fkCx
+ended
+list
+list
+next wBy
+undo *
+undo *
+next fkCx
+list
+add NtQfeZU
+del NtQfeZU
+del fkCx
+del NtQfeZU
+ended
+add wBy
+stop
+ended
+next NtQfeZU
+list
+play
+stop
+current
+ended
+undo *
+add wBy
+list
+next fkCx
+undo
+current
+ended
+list
+undo *
+list
+list
+add wBy
+stop
+ended
+play
+next wBy
+add NtQfeZU
+ended
+next fkCx
+current
+stop
+current
+add fkCx
+add fkCx
+undo *
+stop
+add wBy
+add NtQfeZU
+list
+stop
+next fkCx
+next NtQfeZU
+next wBy
+ended
+del NtQfeZU
+current
+ended
+current
+add NtQfeZU
+add wBy
+undo
+next wBy
+stop
+del wBy
+next NtQfeZU
+play
+current
+stop
+undo *
+undo *
+play
+stop
+list
+list
+add fkCx
+stop
+ended
+fight

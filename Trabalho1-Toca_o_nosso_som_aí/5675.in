@@ -1,0 +1,39 @@
+next wOjLdpXDEH
+current
+del z
+undo
+add JgqNSiq
+play
+del JgqNSiq
+stop
+add z
+add z
+undo *
+next JgqNSiq
+next z
+undo *
+stop
+del JgqNSiq
+stop
+current
+play
+undo *
+play
+play
+undo
+add z
+del z
+list
+next wOjLdpXDEH
+next wOjLdpXDEH
+ended
+current
+next JgqNSiq
+list
+current
+undo *
+play
+list
+stop
+stop
+fight

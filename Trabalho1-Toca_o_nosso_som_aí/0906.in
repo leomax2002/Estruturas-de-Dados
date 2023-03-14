@@ -1,0 +1,233 @@
+del EquSIWtc
+undo *
+stop
+next Y
+list
+stop
+current
+undo
+list
+stop
+del EquSIWtc
+play
+current
+del OIxr
+current
+undo *
+current
+next OIxr
+stop
+add sLf
+add Y
+ended
+stop
+ended
+current
+add Y
+undo *
+add Y
+next EquSIWtc
+stop
+play
+next OIxr
+ended
+undo *
+next OIxr
+undo
+stop
+ended
+current
+ended
+del EquSIWtc
+current
+next sLf
+next Y
+next sLf
+stop
+current
+play
+stop
+list
+undo
+play
+add Y
+del Y
+next Y
+stop
+next EquSIWtc
+next sLf
+del EquSIWtc
+ended
+del EquSIWtc
+next OIxr
+next EquSIWtc
+play
+play
+undo *
+stop
+add Y
+stop
+undo
+ended
+current
+list
+current
+stop
+undo *
+del Y
+add OIxr
+undo
+play
+del OIxr
+stop
+next sLf
+play
+undo
+add EquSIWtc
+del sLf
+next EquSIWtc
+ended
+undo *
+current
+stop
+del sLf
+play
+ended
+del sLf
+add EquSIWtc
+next OIxr
+undo *
+add Y
+current
+current
+undo
+ended
+play
+current
+del Y
+next OIxr
+list
+list
+add OIxr
+ended
+add EquSIWtc
+next OIxr
+current
+list
+current
+ended
+current
+current
+add EquSIWtc
+list
+undo
+next sLf
+next OIxr
+stop
+current
+play
+stop
+ended
+undo *
+stop
+current
+current
+current
+stop
+list
+ended
+del OIxr
+del sLf
+play
+play
+ended
+ended
+add sLf
+list
+stop
+undo
+undo *
+current
+ended
+ended
+ended
+play
+del Y
+del Y
+next sLf
+undo *
+current
+next sLf
+undo
+list
+stop
+next OIxr
+ended
+play
+next Y
+undo *
+undo
+add OIxr
+next OIxr
+list
+stop
+add EquSIWtc
+stop
+del Y
+list
+add Y
+stop
+current
+current
+stop
+next EquSIWtc
+del EquSIWtc
+add Y
+stop
+stop
+undo *
+next sLf
+stop
+add Y
+undo *
+stop
+current
+ended
+add EquSIWtc
+ended
+current
+play
+del OIxr
+del Y
+play
+play
+undo
+undo
+list
+stop
+list
+del sLf
+list
+undo *
+undo *
+del OIxr
+next EquSIWtc
+current
+play
+ended
+del Y
+list
+add EquSIWtc
+del sLf
+next EquSIWtc
+undo
+current
+undo
+del Y
+list
+next sLf
+ended
+play
+del Y
+next OIxr
+fight

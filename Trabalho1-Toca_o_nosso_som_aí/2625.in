@@ -1,0 +1,26 @@
+undo
+undo *
+next iyBx
+next BOaWubDGo
+undo *
+list
+add BOaWubDGo
+del iyBx
+del iyBx
+current
+next BOaWubDGo
+play
+undo
+ended
+next BOaWubDGo
+del BOaWubDGo
+add iyBx
+play
+ended
+stop
+list
+next BOaWubDGo
+list
+play
+del iyBx
+fight

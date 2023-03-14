@@ -1,0 +1,23 @@
+stop
+stop
+del JifqA
+next JifqA
+add Lp
+list
+stop
+stop
+play
+list
+list
+current
+del Vx
+add JifqA
+current
+undo *
+add Vx
+next Lp
+ended
+next Lp
+list
+next Lp
+fight

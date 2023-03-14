@@ -1,0 +1,40 @@
+undo *
+undo
+list
+add WtkPA
+current
+undo
+ended
+undo
+del BhGna
+add BhGna
+next WtkPA
+current
+del ogu
+ended
+ended
+play
+ended
+add OBSYYWjIAA
+current
+add WtkPA
+current
+stop
+play
+play
+del OBSYYWjIAA
+add WtkPA
+ended
+current
+next OBSYYWjIAA
+del OBSYYWjIAA
+stop
+del WtkPA
+ended
+add WtkPA
+next BhGna
+current
+undo
+stop
+play
+fight

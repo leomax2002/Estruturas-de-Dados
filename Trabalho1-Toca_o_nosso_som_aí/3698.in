@@ -1,0 +1,40 @@
+next EqEBHc
+add EqEBHc
+next EqEBHc
+list
+next EqEBHc
+del EqEBHc
+stop
+add EqEBHc
+next EqEBHc
+play
+list
+current
+ended
+undo *
+stop
+undo *
+ended
+play
+play
+stop
+play
+next EqEBHc
+ended
+list
+next EqEBHc
+play
+undo *
+stop
+add EqEBHc
+next EqEBHc
+next EqEBHc
+play
+ended
+stop
+del EqEBHc
+list
+current
+del EqEBHc
+list
+fight

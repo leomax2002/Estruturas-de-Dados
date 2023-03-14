@@ -1,0 +1,85 @@
+stop
+del HbT
+current
+undo *
+stop
+ended
+undo *
+del AQW
+del HbT
+undo *
+next AQW
+current
+play
+next HbT
+list
+undo
+list
+current
+play
+list
+add HbT
+undo
+del AQW
+add HbT
+stop
+next AQW
+ended
+stop
+current
+del AQW
+next AQW
+ended
+current
+undo
+list
+stop
+ended
+stop
+stop
+stop
+list
+undo
+del HbT
+next AQW
+play
+undo
+next AQW
+list
+stop
+ended
+current
+next AQW
+add AQW
+current
+next AQW
+next HbT
+add AQW
+next HbT
+current
+list
+ended
+play
+add HbT
+del HbT
+current
+add HbT
+add AQW
+del HbT
+stop
+play
+current
+stop
+add AQW
+list
+current
+current
+stop
+current
+play
+ended
+next AQW
+next HbT
+undo *
+ended
+fight

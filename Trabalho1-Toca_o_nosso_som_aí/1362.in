@@ -1,0 +1,64 @@
+stop
+undo *
+stop
+next bGMkqQPkP
+undo *
+stop
+next qbiHee
+current
+list
+next qbiHee
+ended
+list
+list
+list
+next bGMkqQPkP
+del bGMkqQPkP
+del bGMkqQPkP
+next pVqo
+ended
+ended
+next MwgItbAHq
+play
+list
+list
+next pVqo
+next XS
+play
+add bGMkqQPkP
+add qbiHee
+current
+list
+stop
+stop
+stop
+next bGMkqQPkP
+add pVqo
+undo *
+ended
+add bGMkqQPkP
+next MwgItbAHq
+del MwgItbAHq
+stop
+next MwgItbAHq
+del bGMkqQPkP
+del pVqo
+add qbiHee
+del XS
+next qbiHee
+stop
+list
+undo *
+add MwgItbAHq
+list
+play
+next XS
+list
+current
+list
+ended
+add qbiHee
+list
+next MwgItbAHq
+current
+fight

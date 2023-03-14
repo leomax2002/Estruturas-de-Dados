@@ -1,0 +1,33 @@
+add cHz
+stop
+current
+current
+current
+play
+list
+ended
+ended
+del xy
+list
+next cHz
+del VN
+stop
+play
+current
+stop
+current
+list
+del cHz
+list
+current
+play
+next xy
+del xy
+list
+next cHz
+next xy
+undo
+play
+stop
+stop
+fight

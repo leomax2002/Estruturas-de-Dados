@@ -1,0 +1,74 @@
+play
+play
+next mUZ
+stop
+add icIqSTzfs
+play
+undo *
+play
+ended
+undo
+add icIqSTzfs
+del icIqSTzfs
+undo *
+del mUZ
+play
+undo *
+next icIqSTzfs
+del mUZ
+del R
+add icIqSTzfs
+stop
+play
+play
+next icIqSTzfs
+add R
+add icIqSTzfs
+ended
+undo *
+ended
+list
+add mUZ
+ended
+play
+add R
+del mUZ
+undo *
+stop
+current
+stop
+add mUZ
+next R
+undo *
+add R
+ended
+add mUZ
+add mUZ
+stop
+current
+current
+current
+add mUZ
+undo
+add icIqSTzfs
+ended
+del mUZ
+current
+ended
+stop
+stop
+add icIqSTzfs
+next mUZ
+play
+current
+current
+del R
+add R
+next R
+undo *
+stop
+play
+next icIqSTzfs
+del icIqSTzfs
+current
+fight

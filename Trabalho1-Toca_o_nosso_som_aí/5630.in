@@ -1,0 +1,210 @@
+stop
+add NAUpQ
+next SHA
+next NAUpQ
+add SHA
+stop
+add SyzmM
+stop
+next NAUpQ
+undo *
+next V
+undo
+ended
+play
+stop
+ended
+undo *
+stop
+add cAv
+stop
+ended
+stop
+stop
+ended
+undo
+list
+del cAv
+next V
+list
+stop
+undo
+add cAv
+current
+add SyzmM
+undo
+list
+stop
+list
+ended
+next V
+del NAUpQ
+stop
+play
+add cAv
+play
+ended
+play
+current
+ended
+list
+del SyzmM
+play
+ended
+ended
+add V
+play
+ended
+del cAv
+ended
+list
+ended
+del SyzmM
+next SyzmM
+list
+play
+play
+del V
+undo
+play
+stop
+current
+play
+list
+current
+current
+ended
+stop
+play
+list
+current
+play
+play
+current
+add NAUpQ
+ended
+undo *
+undo
+del cAv
+del SyzmM
+current
+next SHA
+play
+del NAUpQ
+undo
+del SyzmM
+next SHA
+add NAUpQ
+play
+add cAv
+current
+add SHA
+list
+list
+list
+next NAUpQ
+list
+current
+list
+list
+del NAUpQ
+undo *
+undo
+ended
+next SHA
+stop
+ended
+del cAv
+add SHA
+next cAv
+ended
+stop
+stop
+stop
+play
+stop
+current
+current
+del V
+next SyzmM
+add SHA
+ended
+undo
+stop
+play
+stop
+list
+ended
+ended
+undo
+ended
+add NAUpQ
+play
+current
+undo *
+ended
+list
+stop
+ended
+current
+stop
+current
+undo
+del SyzmM
+play
+undo *
+del cAv
+list
+current
+current
+ended
+list
+next cAv
+current
+play
+add SHA
+add cAv
+ended
+current
+play
+current
+stop
+add cAv
+play
+undo *
+list
+undo
+del cAv
+del SHA
+del NAUpQ
+ended
+next cAv
+stop
+undo
+del SyzmM
+list
+next cAv
+undo
+next V
+del cAv
+list
+ended
+stop
+next NAUpQ
+next SHA
+del SyzmM
+current
+del NAUpQ
+current
+play
+stop
+ended
+ended
+next SyzmM
+undo
+list
+current
+add SyzmM
+next cAv
+stop
+fight

@@ -1,0 +1,40 @@
+ended
+undo
+del CFQ
+undo *
+stop
+undo
+del CFQ
+undo
+play
+current
+undo *
+add DQB
+undo *
+stop
+next DQB
+current
+current
+ended
+stop
+list
+stop
+undo *
+add DQB
+add DQB
+current
+list
+play
+del DQB
+current
+next CFQ
+next CFQ
+undo
+list
+undo
+add DQB
+next CFQ
+ended
+ended
+ended
+fight

@@ -1,0 +1,75 @@
+list
+stop
+del hjNsYWn
+next hjNsYWn
+list
+ended
+add hjNsYWn
+stop
+add hjNsYWn
+stop
+list
+del hjNsYWn
+next hjNsYWn
+play
+undo
+ended
+play
+stop
+next hjNsYWn
+play
+del hjNsYWn
+undo *
+current
+stop
+current
+play
+add hjNsYWn
+stop
+add hjNsYWn
+add hjNsYWn
+add hjNsYWn
+play
+del hjNsYWn
+play
+add hjNsYWn
+list
+undo
+del hjNsYWn
+ended
+next hjNsYWn
+current
+ended
+next hjNsYWn
+play
+current
+play
+play
+undo
+current
+ended
+add hjNsYWn
+add hjNsYWn
+add hjNsYWn
+ended
+ended
+add hjNsYWn
+ended
+current
+undo *
+del hjNsYWn
+current
+stop
+list
+list
+ended
+next hjNsYWn
+play
+play
+del hjNsYWn
+play
+del hjNsYWn
+stop
+del hjNsYWn
+current
+fight

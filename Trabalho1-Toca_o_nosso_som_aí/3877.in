@@ -1,0 +1,32 @@
+ended
+add MDlP
+add MDlP
+del MDlP
+stop
+del MDlP
+play
+del MDlP
+add MDlP
+ended
+undo *
+list
+del MDlP
+add MDlP
+current
+stop
+undo *
+next MDlP
+play
+ended
+list
+ended
+current
+next MDlP
+stop
+play
+ended
+undo *
+del MDlP
+next MDlP
+next MDlP
+fight

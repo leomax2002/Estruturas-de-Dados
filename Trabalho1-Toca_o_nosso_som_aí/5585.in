@@ -1,0 +1,899 @@
+undo *
+del s
+del s
+add JIG
+current
+next TeVCLfd
+play
+current
+current
+ended
+play
+ended
+undo *
+list
+undo
+undo
+next JIG
+ended
+stop
+del JIG
+current
+play
+current
+current
+stop
+del TeVCLfd
+play
+current
+current
+next TeVCLfd
+ended
+undo *
+current
+list
+stop
+del JIG
+list
+add TeVCLfd
+play
+add TeVCLfd
+del TeVCLfd
+stop
+ended
+next s
+add s
+ended
+next s
+add s
+add TeVCLfd
+add s
+play
+undo *
+del TeVCLfd
+add TeVCLfd
+current
+add JIG
+list
+ended
+current
+list
+del s
+ended
+add JIG
+next s
+play
+undo
+undo
+current
+undo
+current
+play
+del TeVCLfd
+stop
+add JIG
+play
+del s
+play
+current
+add TeVCLfd
+list
+stop
+add TeVCLfd
+stop
+ended
+list
+current
+play
+current
+stop
+list
+undo *
+list
+next s
+play
+stop
+list
+ended
+add TeVCLfd
+stop
+ended
+add JIG
+del TeVCLfd
+play
+ended
+add s
+list
+next JIG
+play
+del s
+play
+undo
+current
+play
+next JIG
+ended
+ended
+current
+list
+stop
+play
+current
+del s
+next JIG
+list
+next s
+del s
+del s
+undo
+list
+undo *
+del TeVCLfd
+undo
+current
+ended
+add s
+ended
+stop
+stop
+stop
+ended
+play
+add s
+undo
+list
+add s
+current
+add JIG
+undo
+list
+current
+stop
+ended
+undo
+list
+play
+list
+undo *
+undo
+play
+current
+undo *
+next TeVCLfd
+add TeVCLfd
+current
+play
+current
+current
+undo
+add s
+del s
+current
+del JIG
+stop
+play
+play
+stop
+undo *
+stop
+list
+ended
+next s
+play
+undo *
+stop
+del s
+next s
+del JIG
+ended
+stop
+current
+current
+undo *
+add TeVCLfd
+list
+list
+undo *
+list
+undo
+add JIG
+stop
+current
+list
+undo
+undo
+stop
+ended
+add TeVCLfd
+add TeVCLfd
+add s
+undo
+play
+play
+stop
+add TeVCLfd
+add JIG
+del JIG
+undo
+del s
+list
+add TeVCLfd
+stop
+ended
+current
+stop
+next JIG
+ended
+play
+play
+play
+del JIG
+undo
+undo
+undo
+list
+del TeVCLfd
+undo *
+undo
+list
+list
+next TeVCLfd
+undo
+current
+next JIG
+undo
+undo
+current
+next JIG
+undo
+ended
+add s
+stop
+ended
+add s
+play
+add JIG
+next s
+current
+undo
+current
+ended
+del s
+list
+current
+del s
+current
+del s
+next TeVCLfd
+add JIG
+add s
+next s
+add TeVCLfd
+undo
+del JIG
+current
+play
+undo *
+current
+stop
+play
+stop
+undo
+ended
+ended
+current
+list
+play
+current
+ended
+play
+add TeVCLfd
+add s
+stop
+play
+add s
+current
+undo
+stop
+list
+ended
+list
+del TeVCLfd
+list
+play
+del JIG
+play
+current
+ended
+current
+del s
+undo *
+stop
+list
+list
+list
+list
+add JIG
+list
+list
+undo
+play
+play
+next s
+undo *
+current
+play
+play
+play
+next s
+play
+current
+current
+list
+ended
+current
+current
+stop
+del JIG
+add TeVCLfd
+add TeVCLfd
+current
+ended
+stop
+add s
+del s
+add JIG
+add s
+undo *
+next TeVCLfd
+del s
+next TeVCLfd
+stop
+play
+current
+ended
+ended
+next s
+next JIG
+ended
+add TeVCLfd
+list
+next TeVCLfd
+stop
+play
+del JIG
+stop
+play
+add s
+stop
+next s
+next s
+next s
+play
+del JIG
+next s
+next s
+current
+list
+current
+stop
+add TeVCLfd
+add s
+stop
+stop
+play
+play
+stop
+list
+list
+add JIG
+list
+current
+del s
+del JIG
+list
+list
+ended
+current
+play
+play
+undo
+current
+add s
+play
+current
+ended
+ended
+add JIG
+add s
+ended
+list
+list
+list
+current
+add s
+list
+add JIG
+list
+current
+current
+current
+add JIG
+next s
+play
+undo
+current
+list
+stop
+list
+stop
+ended
+current
+play
+current
+next JIG
+current
+ended
+next TeVCLfd
+list
+play
+play
+ended
+del TeVCLfd
+add TeVCLfd
+add s
+list
+add TeVCLfd
+current
+list
+current
+next s
+ended
+current
+list
+current
+undo
+next JIG
+next JIG
+current
+current
+next TeVCLfd
+add JIG
+current
+ended
+del JIG
+del JIG
+next JIG
+play
+add TeVCLfd
+undo *
+next JIG
+play
+ended
+ended
+add TeVCLfd
+current
+del JIG
+undo
+next TeVCLfd
+del JIG
+current
+play
+list
+add s
+list
+add JIG
+undo *
+del JIG
+ended
+list
+next JIG
+next TeVCLfd
+next TeVCLfd
+ended
+undo
+del s
+current
+list
+add TeVCLfd
+ended
+next TeVCLfd
+ended
+ended
+stop
+del s
+list
+next JIG
+stop
+list
+current
+ended
+ended
+current
+add s
+del TeVCLfd
+add s
+next TeVCLfd
+add s
+list
+stop
+ended
+undo *
+ended
+del JIG
+list
+add TeVCLfd
+del s
+undo *
+ended
+stop
+stop
+list
+next JIG
+add JIG
+ended
+undo *
+undo
+del TeVCLfd
+stop
+next JIG
+del s
+play
+current
+next s
+play
+list
+ended
+add JIG
+next s
+list
+undo *
+del s
+add s
+del JIG
+del s
+ended
+undo *
+ended
+add JIG
+play
+undo *
+play
+ended
+current
+undo *
+play
+del TeVCLfd
+ended
+del JIG
+current
+next JIG
+current
+undo
+ended
+current
+ended
+current
+stop
+list
+del JIG
+next s
+stop
+add s
+del JIG
+add JIG
+next TeVCLfd
+ended
+add s
+undo
+stop
+add JIG
+play
+current
+undo *
+add TeVCLfd
+list
+play
+play
+undo
+add TeVCLfd
+next JIG
+list
+stop
+next s
+list
+stop
+current
+add JIG
+ended
+ended
+current
+current
+del s
+play
+next JIG
+play
+undo
+play
+undo
+current
+ended
+undo *
+undo *
+del s
+current
+play
+add s
+list
+stop
+undo *
+play
+stop
+next TeVCLfd
+del s
+list
+play
+next TeVCLfd
+stop
+ended
+next s
+list
+play
+add s
+play
+undo
+add JIG
+undo
+ended
+undo *
+current
+stop
+current
+list
+current
+list
+current
+del TeVCLfd
+list
+del s
+del TeVCLfd
+list
+list
+del JIG
+undo *
+play
+ended
+list
+next JIG
+list
+stop
+stop
+current
+play
+undo
+stop
+stop
+list
+add JIG
+current
+play
+undo *
+ended
+list
+add s
+undo *
+undo
+list
+play
+stop
+add s
+current
+next s
+undo
+del JIG
+current
+play
+next TeVCLfd
+ended
+ended
+add TeVCLfd
+current
+play
+current
+undo
+undo
+current
+list
+next JIG
+current
+add s
+del s
+undo
+add s
+del TeVCLfd
+next TeVCLfd
+play
+next s
+add JIG
+stop
+add s
+list
+next JIG
+del TeVCLfd
+next JIG
+stop
+list
+next JIG
+next JIG
+del TeVCLfd
+next TeVCLfd
+list
+ended
+play
+add TeVCLfd
+list
+ended
+next JIG
+current
+ended
+stop
+undo *
+list
+add JIG
+del TeVCLfd
+stop
+ended
+undo
+undo *
+del JIG
+ended
+stop
+add s
+ended
+add TeVCLfd
+add TeVCLfd
+undo
+list
+next s
+undo
+undo
+list
+del s
+stop
+add TeVCLfd
+add JIG
+stop
+next TeVCLfd
+next s
+del JIG
+current
+next JIG
+play
+add JIG
+stop
+stop
+list
+stop
+play
+undo
+del TeVCLfd
+current
+play
+play
+undo *
+add s
+play
+play
+list
+list
+play
+stop
+undo
+undo *
+add s
+play
+current
+play
+stop
+list
+del JIG
+stop
+play
+current
+ended
+current
+current
+del s
+list
+list
+current
+play
+play
+stop
+del TeVCLfd
+add TeVCLfd
+play
+add JIG
+play
+list
+del s
+list
+undo
+next s
+play
+next TeVCLfd
+ended
+list
+play
+current
+add TeVCLfd
+current
+next TeVCLfd
+del TeVCLfd
+undo *
+del JIG
+ended
+ended
+add JIG
+stop
+next s
+add s
+list
+next TeVCLfd
+list
+stop
+stop
+next TeVCLfd
+list
+list
+add JIG
+list
+del JIG
+undo *
+ended
+ended
+next TeVCLfd
+list
+undo
+list
+add s
+current
+next TeVCLfd
+play
+undo
+list
+list
+undo
+play
+play
+next JIG
+next JIG
+current
+add TeVCLfd
+play
+next JIG
+next TeVCLfd
+del TeVCLfd
+undo
+next JIG
+del TeVCLfd
+ended
+stop
+next JIG
+stop
+list
+stop
+next s
+current
+next s
+undo *
+current
+undo
+del s
+stop
+undo
+play
+next TeVCLfd
+undo *
+add s
+fight

@@ -1,0 +1,42 @@
+list
+next G
+del HEMUdSrVG
+next G
+undo *
+current
+next HEMUdSrVG
+del HEMUdSrVG
+play
+play
+list
+play
+current
+stop
+play
+stop
+del HEMUdSrVG
+play
+current
+next iRjGVRxgv
+undo
+stop
+stop
+undo
+del iRjGVRxgv
+current
+list
+play
+current
+ended
+undo *
+undo
+current
+list
+list
+list
+list
+play
+del HEMUdSrVG
+ended
+stop
+fight

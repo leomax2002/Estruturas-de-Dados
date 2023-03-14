@@ -1,0 +1,37 @@
+undo *
+add AeijpaC
+stop
+stop
+list
+play
+play
+list
+current
+list
+del QN
+current
+next AeijpaC
+next TQvHmtrbs
+play
+next QN
+stop
+current
+next AeijpaC
+current
+next AeijpaC
+current
+ended
+undo
+ended
+undo *
+play
+current
+next TQvHmtrbs
+ended
+ended
+undo
+next AeijpaC
+del QN
+ended
+next TQvHmtrbs
+fight

@@ -1,0 +1,34 @@
+play
+next A
+stop
+play
+undo
+current
+del WIkiR
+ended
+add WIkiR
+undo *
+current
+list
+stop
+stop
+add WIkiR
+del WIkiR
+ended
+add A
+ended
+list
+add WIkiR
+next WIkiR
+ended
+ended
+ended
+add A
+add WIkiR
+stop
+del WIkiR
+del A
+del A
+list
+del A
+fight

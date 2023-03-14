@@ -1,0 +1,85 @@
+play
+list
+next HUU
+undo
+play
+ended
+ended
+next HUU
+current
+list
+ended
+del HUU
+current
+ended
+next KX
+ended
+current
+current
+add HUU
+current
+list
+add KX
+ended
+del KX
+next KX
+next HUU
+play
+current
+add KX
+list
+add KX
+current
+current
+del HUU
+add HUU
+current
+current
+play
+del KX
+del HUU
+stop
+play
+list
+add HUU
+next HUU
+del HUU
+del HUU
+list
+play
+del HUU
+add KX
+ended
+next HUU
+stop
+next KX
+undo
+undo
+current
+stop
+list
+ended
+undo *
+next HUU
+add KX
+next HUU
+next HUU
+ended
+add HUU
+add HUU
+current
+undo *
+ended
+next HUU
+ended
+next HUU
+del KX
+ended
+list
+next HUU
+play
+ended
+add HUU
+undo
+play
+fight

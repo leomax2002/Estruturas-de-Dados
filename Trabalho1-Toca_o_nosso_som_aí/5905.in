@@ -1,0 +1,292 @@
+add ZO
+add dF
+undo *
+undo
+next dF
+next ZO
+current
+undo *
+next VMPf
+current
+list
+undo
+undo
+del VMPf
+add VMPf
+del ZO
+del dF
+del VMPf
+stop
+stop
+next VMPf
+undo *
+stop
+current
+current
+add ZO
+add ZO
+play
+next dF
+list
+list
+current
+add ZO
+next dF
+stop
+next VMPf
+add VMPf
+next ZO
+list
+stop
+current
+stop
+current
+stop
+list
+del ZO
+stop
+list
+del ZO
+add VMPf
+del VMPf
+next VMPf
+list
+current
+stop
+undo *
+play
+play
+current
+next dF
+ended
+next VMPf
+current
+list
+stop
+add VMPf
+undo *
+add ZO
+del dF
+ended
+add VMPf
+add dF
+list
+ended
+undo
+del VMPf
+undo
+undo *
+stop
+next dF
+undo
+add VMPf
+undo *
+undo
+ended
+ended
+undo *
+ended
+list
+play
+next VMPf
+current
+next VMPf
+stop
+next VMPf
+next ZO
+next ZO
+undo
+list
+current
+ended
+add dF
+stop
+play
+ended
+undo *
+list
+list
+play
+add ZO
+del ZO
+del dF
+add VMPf
+del ZO
+list
+ended
+play
+play
+stop
+stop
+del VMPf
+undo
+play
+current
+current
+ended
+play
+play
+del dF
+list
+next VMPf
+list
+play
+play
+ended
+stop
+undo
+del ZO
+current
+next ZO
+next dF
+undo *
+ended
+del dF
+undo
+undo
+del ZO
+ended
+add dF
+add VMPf
+current
+undo *
+del VMPf
+del VMPf
+next VMPf
+list
+ended
+stop
+undo *
+list
+stop
+list
+next VMPf
+play
+stop
+undo *
+next dF
+list
+next dF
+stop
+current
+stop
+add ZO
+stop
+current
+next dF
+add ZO
+ended
+list
+current
+stop
+undo *
+stop
+list
+stop
+play
+next ZO
+list
+add ZO
+ended
+stop
+ended
+list
+del dF
+add dF
+undo
+next VMPf
+undo *
+play
+next VMPf
+play
+current
+del VMPf
+list
+stop
+ended
+play
+next dF
+current
+next VMPf
+stop
+next VMPf
+ended
+play
+ended
+play
+ended
+play
+current
+current
+list
+add VMPf
+add dF
+current
+current
+next VMPf
+stop
+next VMPf
+list
+current
+list
+ended
+del ZO
+play
+add dF
+play
+del ZO
+del dF
+undo *
+play
+list
+next VMPf
+next VMPf
+ended
+add VMPf
+add ZO
+list
+del ZO
+current
+undo
+add ZO
+play
+add VMPf
+stop
+stop
+stop
+add dF
+stop
+del dF
+list
+list
+next VMPf
+add ZO
+undo
+next VMPf
+ended
+next dF
+next VMPf
+ended
+current
+add ZO
+ended
+list
+stop
+undo *
+del VMPf
+ended
+current
+undo *
+undo *
+undo *
+play
+del dF
+current
+add ZO
+list
+undo *
+del ZO
+stop
+del ZO
+undo
+fight

@@ -1,0 +1,70 @@
+list
+add BYz
+del orwsR
+current
+next orwsR
+list
+del orwsR
+undo
+del BYz
+undo *
+next orwsR
+current
+del orwsR
+current
+add orwsR
+play
+list
+undo *
+del BYz
+del orwsR
+add BYz
+ended
+list
+list
+list
+undo
+play
+play
+list
+undo *
+play
+current
+add BYz
+ended
+next orwsR
+next BYz
+stop
+list
+current
+add orwsR
+add BYz
+stop
+add orwsR
+add BYz
+del BYz
+ended
+add BYz
+stop
+add orwsR
+add orwsR
+add orwsR
+list
+next orwsR
+del BYz
+undo *
+next BYz
+play
+stop
+play
+ended
+add BYz
+next BYz
+current
+stop
+next orwsR
+current
+current
+play
+current
+fight

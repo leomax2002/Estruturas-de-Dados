@@ -1,0 +1,124 @@
+play
+undo *
+current
+play
+stop
+del N
+add N
+current
+play
+play
+list
+stop
+current
+list
+play
+list
+stop
+undo *
+del N
+del N
+ended
+next N
+current
+next N
+add N
+del N
+del N
+play
+play
+list
+ended
+undo *
+play
+play
+del N
+current
+ended
+current
+next N
+current
+add N
+del N
+play
+list
+undo *
+next N
+stop
+play
+undo *
+list
+play
+current
+del N
+current
+play
+next N
+play
+stop
+add N
+current
+next N
+undo
+undo *
+del N
+add N
+current
+next N
+stop
+undo *
+play
+del N
+ended
+del N
+add N
+del N
+stop
+next N
+next N
+add N
+stop
+next N
+ended
+list
+next N
+next N
+del N
+next N
+next N
+ended
+play
+add N
+list
+ended
+list
+del N
+list
+add N
+del N
+undo *
+undo *
+current
+list
+undo *
+stop
+stop
+ended
+current
+ended
+del N
+stop
+del N
+del N
+undo
+list
+del N
+del N
+play
+ended
+current
+list
+add N
+play
+next N
+fight

@@ -1,0 +1,77 @@
+undo *
+undo *
+add eZKV
+stop
+undo
+undo
+add eZKV
+play
+ended
+list
+add bIAfR
+play
+next eZKV
+undo
+undo
+ended
+add bIAfR
+list
+del eZKV
+current
+list
+undo *
+stop
+play
+ended
+current
+play
+current
+undo *
+ended
+undo
+play
+ended
+ended
+add eZKV
+ended
+ended
+add eZKV
+undo
+current
+play
+ended
+play
+add eZKV
+ended
+del eZKV
+list
+ended
+add eZKV
+del eZKV
+del eZKV
+ended
+del eZKV
+stop
+list
+ended
+list
+play
+add eZKV
+next bIAfR
+add bIAfR
+list
+ended
+del eZKV
+undo *
+add bIAfR
+add eZKV
+play
+add bIAfR
+undo
+stop
+undo *
+undo *
+list
+list
+add eZKV
+fight

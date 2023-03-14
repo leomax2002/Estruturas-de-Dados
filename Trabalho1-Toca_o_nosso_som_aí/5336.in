@@ -1,0 +1,9 @@
+add lD
+undo *
+add lD
+stop
+list
+del xduwhop
+stop
+del xduwhop
+fight

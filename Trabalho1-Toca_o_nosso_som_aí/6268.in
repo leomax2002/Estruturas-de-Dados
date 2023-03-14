@@ -1,0 +1,111 @@
+current
+del CXTHl
+undo *
+del J
+current
+list
+stop
+stop
+del J
+next AMgTx
+ended
+stop
+del J
+current
+undo *
+undo
+play
+list
+current
+play
+add AMgTx
+add rNh
+ended
+ended
+current
+list
+play
+undo *
+ended
+next J
+current
+del CXTHl
+del AMgTx
+add AMgTx
+add rNh
+ended
+undo
+del AMgTx
+ended
+stop
+add AMgTx
+add AMgTx
+del AMgTx
+ended
+play
+ended
+list
+play
+ended
+list
+stop
+add CXTHl
+next J
+add rNh
+next afyG
+play
+undo *
+stop
+list
+list
+ended
+del afyG
+list
+next J
+play
+stop
+list
+stop
+next rNh
+list
+next J
+next CXTHl
+add AMgTx
+add AMgTx
+del AMgTx
+list
+del J
+ended
+stop
+stop
+add rNh
+undo *
+play
+play
+play
+next rNh
+next rNh
+add AMgTx
+undo *
+list
+current
+current
+play
+next afyG
+next rNh
+current
+stop
+ended
+current
+current
+stop
+ended
+next J
+stop
+del CXTHl
+current
+del AMgTx
+del J
+undo *
+next CXTHl
+fight

@@ -1,0 +1,24 @@
+add ZGvturBe
+list
+current
+play
+stop
+next ZGvturBe
+del ZGvturBe
+ended
+current
+next ZGvturBe
+current
+play
+next ZGvturBe
+add ZGvturBe
+add ZGvturBe
+add ZGvturBe
+current
+add ZGvturBe
+undo
+next ZGvturBe
+ended
+undo
+next ZGvturBe
+fight

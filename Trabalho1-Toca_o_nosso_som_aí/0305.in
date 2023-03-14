@@ -1,0 +1,139 @@
+list
+list
+current
+stop
+next wXmF
+play
+add wXmF
+current
+stop
+add wXmF
+next k
+play
+add wXmF
+del wXmF
+undo
+add wXmF
+play
+ended
+play
+list
+del k
+undo *
+next wXmF
+ended
+ended
+ended
+del k
+play
+del wXmF
+stop
+play
+ended
+current
+del k
+undo *
+undo *
+stop
+play
+ended
+ended
+ended
+del wXmF
+play
+undo
+undo
+stop
+add wXmF
+current
+next k
+add wXmF
+current
+undo
+current
+del wXmF
+stop
+list
+current
+next k
+add k
+stop
+ended
+undo
+play
+stop
+add wXmF
+add wXmF
+undo
+add k
+current
+undo
+next wXmF
+undo *
+current
+current
+current
+next wXmF
+del k
+current
+add k
+play
+undo *
+add k
+next k
+del k
+ended
+ended
+current
+current
+next k
+current
+add k
+ended
+undo *
+undo
+play
+play
+del k
+add k
+ended
+ended
+del k
+current
+del k
+ended
+next k
+list
+ended
+list
+ended
+play
+undo *
+stop
+stop
+undo
+stop
+ended
+ended
+current
+undo *
+ended
+add wXmF
+del k
+stop
+stop
+next k
+undo
+play
+ended
+undo *
+play
+ended
+add wXmF
+next k
+next wXmF
+current
+del wXmF
+current
+stop
+fight

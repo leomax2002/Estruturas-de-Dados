@@ -1,0 +1,31 @@
+stop
+ended
+next z
+next z
+current
+add z
+stop
+add z
+undo *
+play
+stop
+play
+current
+next z
+list
+current
+current
+current
+next z
+ended
+play
+undo *
+play
+play
+current
+list
+list
+undo *
+list
+play
+fight

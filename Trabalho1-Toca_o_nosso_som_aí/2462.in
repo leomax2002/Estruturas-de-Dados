@@ -1,0 +1,84 @@
+list
+next WS
+undo *
+add WS
+next WS
+ended
+list
+undo *
+stop
+next WS
+list
+del WS
+play
+del WS
+del WS
+play
+undo *
+del WS
+current
+list
+next WS
+undo *
+del WS
+list
+list
+add WS
+play
+ended
+stop
+ended
+add WS
+current
+ended
+list
+list
+undo *
+undo *
+list
+del WS
+next WS
+del WS
+stop
+ended
+play
+ended
+current
+list
+list
+stop
+add WS
+del WS
+stop
+current
+play
+ended
+stop
+stop
+undo
+del WS
+add WS
+ended
+next WS
+del WS
+current
+undo *
+play
+ended
+del WS
+undo *
+next WS
+del WS
+stop
+ended
+ended
+undo *
+play
+list
+next WS
+undo *
+next WS
+current
+undo *
+add WS
+fight

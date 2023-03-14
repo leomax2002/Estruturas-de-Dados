@@ -1,0 +1,308 @@
+undo *
+add Cg
+del E
+play
+stop
+current
+list
+add E
+add Cg
+current
+play
+next E
+list
+undo *
+ended
+play
+add E
+ended
+stop
+list
+play
+undo
+next E
+ended
+next E
+undo *
+undo *
+list
+play
+add E
+list
+ended
+del Cg
+list
+add E
+play
+undo
+ended
+current
+current
+ended
+list
+add Cg
+add E
+stop
+del E
+next Cg
+stop
+play
+del E
+play
+play
+list
+add Cg
+del E
+list
+add E
+current
+play
+ended
+list
+list
+play
+next E
+del Cg
+undo
+next Cg
+del E
+current
+current
+current
+add E
+next E
+undo *
+undo
+ended
+stop
+play
+undo
+stop
+ended
+undo
+next E
+play
+list
+add Cg
+next E
+current
+ended
+next Cg
+undo
+ended
+undo
+undo
+play
+undo
+del Cg
+undo
+play
+stop
+add E
+current
+list
+del Cg
+list
+stop
+current
+list
+list
+undo
+stop
+del E
+current
+ended
+next E
+current
+del Cg
+ended
+ended
+add Cg
+current
+del Cg
+add Cg
+current
+stop
+stop
+ended
+del Cg
+add Cg
+add E
+play
+add Cg
+current
+ended
+list
+stop
+undo *
+del E
+next Cg
+next E
+undo *
+next Cg
+next E
+del E
+del Cg
+ended
+next Cg
+stop
+list
+current
+del Cg
+undo
+current
+stop
+del E
+list
+list
+current
+ended
+stop
+undo
+list
+stop
+stop
+next E
+next Cg
+play
+del E
+current
+next E
+play
+stop
+add E
+next E
+stop
+list
+current
+undo *
+next Cg
+current
+del Cg
+del E
+play
+play
+add Cg
+play
+play
+add E
+undo
+del Cg
+add E
+undo *
+current
+stop
+play
+add Cg
+current
+list
+stop
+ended
+play
+add Cg
+next E
+current
+current
+ended
+current
+list
+ended
+ended
+del E
+current
+stop
+play
+current
+del E
+ended
+next E
+next Cg
+add E
+next E
+current
+undo
+add E
+next Cg
+undo *
+current
+play
+play
+play
+current
+ended
+del Cg
+stop
+stop
+undo *
+current
+play
+play
+undo *
+list
+play
+list
+list
+add Cg
+next Cg
+next E
+list
+play
+list
+undo
+del E
+current
+undo *
+add Cg
+play
+current
+del E
+stop
+current
+play
+undo *
+undo
+current
+stop
+next Cg
+add Cg
+list
+current
+list
+play
+add E
+next E
+next E
+list
+del Cg
+stop
+next E
+next E
+current
+play
+stop
+next E
+add Cg
+add E
+list
+add Cg
+del Cg
+del E
+next Cg
+play
+undo *
+del E
+del E
+ended
+play
+add Cg
+current
+stop
+stop
+ended
+current
+del E
+stop
+play
+del Cg
+current
+fight

@@ -1,0 +1,27 @@
+list
+add iR
+undo
+play
+del iR
+current
+play
+next vZSe
+undo
+del vZSe
+del iR
+current
+stop
+ended
+del vZSe
+del iR
+list
+list
+del vZSe
+list
+ended
+add iR
+ended
+play
+list
+ended
+fight

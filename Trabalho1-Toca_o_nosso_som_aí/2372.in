@@ -1,0 +1,65 @@
+stop
+play
+list
+stop
+list
+play
+add ROWERtQD
+del ROWERtQD
+undo *
+play
+del zq
+next BMN
+undo *
+play
+add ROWERtQD
+list
+undo *
+next ROWERtQD
+list
+undo
+undo
+undo *
+current
+next BMN
+del ROWERtQD
+ended
+current
+undo *
+add BMN
+list
+undo
+play
+stop
+add BMN
+list
+play
+current
+play
+current
+current
+add ROWERtQD
+undo
+ended
+current
+undo
+del ROWERtQD
+play
+play
+stop
+next BMN
+ended
+add ROWERtQD
+next ROWERtQD
+stop
+list
+play
+play
+del BMN
+del ROWERtQD
+ended
+ended
+del ROWERtQD
+undo
+del ROWERtQD
+fight

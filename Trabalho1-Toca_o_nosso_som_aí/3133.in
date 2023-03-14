@@ -1,0 +1,63 @@
+play
+undo *
+del WTPOMzwaUb
+add WTPOMzwaUb
+list
+undo *
+play
+next WTPOMzwaUb
+del WTPOMzwaUb
+next WTPOMzwaUb
+stop
+del WTPOMzwaUb
+current
+stop
+play
+add WTPOMzwaUb
+undo *
+stop
+play
+add WTPOMzwaUb
+stop
+add WTPOMzwaUb
+play
+del WTPOMzwaUb
+list
+next WTPOMzwaUb
+add WTPOMzwaUb
+undo *
+list
+next WTPOMzwaUb
+del WTPOMzwaUb
+ended
+undo *
+stop
+del WTPOMzwaUb
+current
+stop
+ended
+play
+ended
+del WTPOMzwaUb
+stop
+undo *
+undo *
+next WTPOMzwaUb
+play
+next WTPOMzwaUb
+play
+list
+play
+list
+add WTPOMzwaUb
+del WTPOMzwaUb
+current
+ended
+add WTPOMzwaUb
+list
+list
+next WTPOMzwaUb
+play
+next WTPOMzwaUb
+add WTPOMzwaUb
+fight

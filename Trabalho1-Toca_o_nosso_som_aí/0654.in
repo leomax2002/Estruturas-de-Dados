@@ -1,0 +1,19 @@
+play
+add ryPLZLopSq
+play
+next BCVcyl
+stop
+ended
+list
+play
+ended
+del oAJIHsh
+next BCVcyl
+stop
+next ryPLZLopSq
+undo *
+play
+next ryPLZLopSq
+current
+ended
+fight

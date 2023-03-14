@@ -1,0 +1,34 @@
+add AGXcj
+undo *
+del XMWzINLLz
+undo
+ended
+undo *
+stop
+ended
+list
+stop
+del xpIOfMW
+next xpIOfMW
+ended
+play
+stop
+add xpIOfMW
+current
+next XMWzINLLz
+list
+undo *
+play
+stop
+list
+list
+ended
+play
+undo *
+stop
+del xpIOfMW
+next xpIOfMW
+ended
+stop
+next AGXcj
+fight

@@ -1,0 +1,91 @@
+add f
+next f
+undo *
+stop
+play
+play
+current
+ended
+next qkw
+next f
+stop
+add qkw
+ended
+current
+undo
+add pPcpqS
+del pPcpqS
+add qkw
+ended
+del f
+current
+ended
+next f
+play
+current
+del qkw
+undo *
+stop
+del qkw
+next qkw
+ended
+current
+current
+list
+next f
+next qkw
+del qkw
+play
+current
+stop
+del pPcpqS
+current
+add pPcpqS
+ended
+current
+list
+list
+undo
+del qkw
+stop
+ended
+current
+del qkw
+next f
+undo *
+ended
+ended
+play
+add pPcpqS
+undo *
+add f
+add qkw
+add qkw
+list
+play
+stop
+stop
+add pPcpqS
+play
+stop
+del pPcpqS
+del pPcpqS
+current
+next f
+next qkw
+list
+stop
+list
+ended
+del qkw
+play
+add qkw
+ended
+list
+current
+list
+del pPcpqS
+ended
+list
+del f
+fight

@@ -1,0 +1,20 @@
+stop
+play
+add DfaukUSPPT
+del DfaukUSPPT
+play
+add DfaukUSPPT
+ended
+undo *
+undo *
+stop
+undo
+stop
+list
+current
+current
+ended
+undo
+stop
+next DfaukUSPPT
+fight

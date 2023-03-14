@@ -1,0 +1,166 @@
+next x
+undo *
+add x
+undo *
+list
+play
+stop
+play
+undo
+undo
+add x
+list
+add TaDE
+ended
+add x
+list
+next x
+next gNWN
+play
+add TaDE
+add x
+add gNWN
+current
+add TaDE
+undo
+stop
+stop
+list
+current
+undo *
+ended
+play
+ended
+play
+undo *
+stop
+ended
+ended
+play
+stop
+current
+next gNWN
+current
+add x
+play
+ended
+ended
+list
+current
+play
+play
+current
+ended
+ended
+add gNWN
+ended
+next TaDE
+undo *
+ended
+add gNWN
+play
+next gNWN
+list
+stop
+next TaDE
+current
+play
+list
+current
+list
+list
+play
+stop
+ended
+stop
+undo
+stop
+list
+next gNWN
+next TaDE
+ended
+stop
+add TaDE
+play
+play
+current
+list
+add gNWN
+list
+current
+del gNWN
+add x
+list
+play
+del x
+add gNWN
+play
+current
+ended
+play
+play
+play
+ended
+add x
+current
+del gNWN
+ended
+ended
+list
+undo *
+current
+add gNWN
+list
+del gNWN
+play
+stop
+del x
+ended
+del x
+current
+play
+current
+next gNWN
+undo *
+current
+undo
+add TaDE
+current
+add TaDE
+undo *
+ended
+undo *
+next TaDE
+stop
+list
+current
+next TaDE
+list
+current
+list
+stop
+play
+ended
+list
+undo
+ended
+undo *
+add TaDE
+list
+ended
+next x
+next gNWN
+current
+del x
+play
+play
+stop
+current
+del x
+add TaDE
+del TaDE
+del gNWN
+stop
+undo
+add gNWN
+fight

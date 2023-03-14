@@ -1,0 +1,17 @@
+next p
+stop
+del p
+add p
+add EhTdHV
+undo *
+current
+play
+list
+stop
+ended
+play
+next p
+add p
+del EhTdHV
+undo *
+fight

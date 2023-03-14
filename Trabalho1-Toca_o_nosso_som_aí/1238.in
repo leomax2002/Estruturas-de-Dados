@@ -1,0 +1,60 @@
+add vxM
+ended
+current
+next vxM
+add vxM
+stop
+next vxM
+list
+current
+next vxM
+play
+ended
+ended
+undo
+current
+add vxM
+stop
+ended
+undo *
+ended
+del vxM
+current
+ended
+del vxM
+next vxM
+current
+ended
+current
+add vxM
+next vxM
+del vxM
+undo *
+play
+undo
+ended
+undo *
+undo
+next vxM
+stop
+list
+undo
+play
+undo
+add vxM
+del vxM
+list
+play
+next vxM
+next vxM
+play
+play
+del vxM
+play
+list
+play
+del vxM
+list
+next vxM
+stop
+fight

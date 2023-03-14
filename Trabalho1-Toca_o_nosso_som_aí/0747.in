@@ -1,0 +1,82 @@
+add J
+ended
+add J
+undo *
+current
+undo *
+play
+undo
+list
+del J
+current
+list
+add J
+stop
+stop
+stop
+current
+stop
+undo *
+current
+play
+undo
+stop
+stop
+add J
+play
+undo *
+undo
+next J
+del J
+current
+play
+list
+undo *
+play
+del J
+list
+del J
+add J
+undo *
+del J
+del J
+next J
+list
+next J
+del J
+ended
+current
+list
+next J
+stop
+list
+next J
+current
+undo
+undo *
+next J
+ended
+stop
+undo *
+play
+del J
+list
+ended
+list
+next J
+next J
+next J
+undo
+stop
+stop
+ended
+ended
+undo
+play
+play
+current
+stop
+add J
+del J
+list
+fight

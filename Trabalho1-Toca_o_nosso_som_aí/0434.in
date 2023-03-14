@@ -1,0 +1,54 @@
+add HGmEhmU
+current
+next r
+del HGmEhmU
+ended
+del HGmEhmU
+list
+add Hd
+play
+current
+undo
+current
+undo *
+ended
+play
+ended
+del r
+undo *
+undo *
+del Hd
+undo *
+stop
+del gazT
+current
+undo
+undo
+list
+ended
+del HGmEhmU
+del Hd
+undo
+del HGmEhmU
+del Hd
+list
+stop
+play
+stop
+play
+list
+next Hd
+play
+list
+list
+play
+play
+ended
+current
+undo
+stop
+undo
+add gazT
+add gazT
+current
+fight

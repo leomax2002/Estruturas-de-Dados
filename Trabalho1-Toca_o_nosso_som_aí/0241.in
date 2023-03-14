@@ -1,0 +1,28 @@
+play
+next TSwJlvS
+list
+current
+next TSwJlvS
+stop
+play
+undo
+del TSwJlvS
+current
+play
+ended
+stop
+undo
+stop
+add TSwJlvS
+current
+del TSwJlvS
+del TSwJlvS
+current
+play
+next TSwJlvS
+del TSwJlvS
+add TSwJlvS
+del TSwJlvS
+current
+current
+fight

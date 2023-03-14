@@ -1,0 +1,232 @@
+del ukHPSM
+current
+add ukHPSM
+next ukHPSM
+current
+del ukHPSM
+current
+undo *
+play
+ended
+list
+undo *
+next ukHPSM
+undo *
+del ukHPSM
+play
+undo
+del ukHPSM
+undo *
+play
+next ukHPSM
+undo
+current
+ended
+add ukHPSM
+add ukHPSM
+ended
+list
+ended
+ended
+current
+current
+del ukHPSM
+play
+ended
+undo *
+play
+next ukHPSM
+stop
+current
+add ukHPSM
+del ukHPSM
+current
+del ukHPSM
+add ukHPSM
+list
+current
+undo *
+stop
+undo
+del ukHPSM
+del ukHPSM
+list
+undo *
+current
+list
+current
+stop
+add ukHPSM
+add ukHPSM
+del ukHPSM
+next ukHPSM
+add ukHPSM
+current
+add ukHPSM
+stop
+current
+add ukHPSM
+stop
+next ukHPSM
+current
+current
+stop
+add ukHPSM
+add ukHPSM
+current
+list
+current
+add ukHPSM
+undo *
+list
+stop
+add ukHPSM
+stop
+stop
+add ukHPSM
+current
+stop
+ended
+ended
+add ukHPSM
+play
+next ukHPSM
+play
+add ukHPSM
+undo
+list
+list
+current
+list
+stop
+del ukHPSM
+play
+stop
+next ukHPSM
+del ukHPSM
+add ukHPSM
+stop
+add ukHPSM
+list
+ended
+current
+del ukHPSM
+add ukHPSM
+add ukHPSM
+add ukHPSM
+next ukHPSM
+next ukHPSM
+ended
+play
+del ukHPSM
+undo
+list
+play
+add ukHPSM
+play
+next ukHPSM
+stop
+next ukHPSM
+next ukHPSM
+play
+ended
+undo *
+play
+add ukHPSM
+play
+play
+undo *
+play
+list
+add ukHPSM
+del ukHPSM
+next ukHPSM
+del ukHPSM
+next ukHPSM
+play
+add ukHPSM
+add ukHPSM
+del ukHPSM
+stop
+play
+next ukHPSM
+list
+next ukHPSM
+stop
+ended
+ended
+undo
+current
+play
+next ukHPSM
+ended
+del ukHPSM
+del ukHPSM
+list
+next ukHPSM
+stop
+list
+ended
+add ukHPSM
+undo *
+del ukHPSM
+ended
+play
+ended
+stop
+del ukHPSM
+stop
+stop
+play
+add ukHPSM
+del ukHPSM
+add ukHPSM
+current
+ended
+play
+stop
+play
+ended
+undo
+undo *
+ended
+del ukHPSM
+current
+undo *
+list
+play
+list
+add ukHPSM
+ended
+del ukHPSM
+undo
+ended
+list
+add ukHPSM
+ended
+current
+play
+undo *
+add ukHPSM
+stop
+del ukHPSM
+undo *
+add ukHPSM
+stop
+undo
+play
+list
+undo *
+stop
+del ukHPSM
+list
+play
+current
+add ukHPSM
+undo
+del ukHPSM
+stop
+del ukHPSM
+undo
+current
+fight

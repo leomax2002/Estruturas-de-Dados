@@ -1,0 +1,42 @@
+undo *
+list
+stop
+add k
+ended
+list
+del WH
+add WH
+ended
+stop
+del NToMJHL
+ended
+play
+add k
+add k
+current
+stop
+del k
+add NToMJHL
+undo
+next k
+add k
+add WH
+play
+current
+play
+undo
+play
+ended
+stop
+add NToMJHL
+undo *
+del k
+current
+stop
+stop
+list
+undo *
+next WH
+current
+undo *
+fight

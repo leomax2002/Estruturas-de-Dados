@@ -1,0 +1,14 @@
+stop
+current
+add Vh
+current
+list
+stop
+current
+del Vh
+next Vh
+current
+next tbEL
+next tbEL
+ended
+fight

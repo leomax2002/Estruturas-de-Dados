@@ -1,0 +1,24 @@
+undo *
+next xsAyVOea
+ended
+current
+stop
+undo *
+list
+undo
+play
+add xsAyVOea
+stop
+del xsAyVOea
+play
+add xsAyVOea
+current
+add xsAyVOea
+list
+stop
+ended
+play
+stop
+del xsAyVOea
+current
+fight

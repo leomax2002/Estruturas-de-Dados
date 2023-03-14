@@ -1,0 +1,184 @@
+add FkiCB
+current
+add AunoZXLuy
+del AunoZXLuy
+del FkiCB
+list
+next AunoZXLuy
+current
+list
+del AunoZXLuy
+undo *
+add AunoZXLuy
+next FkiCB
+del FkiCB
+add AunoZXLuy
+play
+current
+add FkiCB
+current
+del AunoZXLuy
+ended
+add AunoZXLuy
+undo *
+list
+current
+del AunoZXLuy
+next FkiCB
+del FkiCB
+stop
+list
+current
+list
+stop
+stop
+next AunoZXLuy
+stop
+del AunoZXLuy
+ended
+del FkiCB
+stop
+next AunoZXLuy
+del FkiCB
+ended
+list
+list
+list
+ended
+play
+add FkiCB
+list
+undo
+next FkiCB
+play
+play
+stop
+next AunoZXLuy
+play
+current
+stop
+next AunoZXLuy
+next AunoZXLuy
+list
+ended
+next AunoZXLuy
+play
+list
+play
+del FkiCB
+add AunoZXLuy
+del FkiCB
+add FkiCB
+play
+current
+undo *
+next AunoZXLuy
+undo *
+play
+stop
+ended
+current
+play
+ended
+add AunoZXLuy
+del AunoZXLuy
+stop
+play
+play
+list
+stop
+play
+ended
+current
+current
+next FkiCB
+list
+play
+add AunoZXLuy
+next AunoZXLuy
+current
+list
+current
+next AunoZXLuy
+list
+play
+current
+stop
+current
+ended
+play
+current
+list
+stop
+play
+next AunoZXLuy
+add FkiCB
+next FkiCB
+ended
+list
+play
+current
+stop
+add FkiCB
+list
+del AunoZXLuy
+next AunoZXLuy
+next AunoZXLuy
+stop
+current
+list
+play
+next FkiCB
+list
+add AunoZXLuy
+current
+play
+play
+del AunoZXLuy
+del AunoZXLuy
+undo
+next FkiCB
+ended
+next AunoZXLuy
+play
+play
+del AunoZXLuy
+stop
+current
+current
+stop
+list
+current
+play
+ended
+next FkiCB
+undo *
+next FkiCB
+list
+undo
+next AunoZXLuy
+list
+stop
+del AunoZXLuy
+ended
+play
+stop
+current
+add AunoZXLuy
+list
+current
+play
+play
+stop
+stop
+list
+undo
+add AunoZXLuy
+play
+current
+ended
+del AunoZXLuy
+next AunoZXLuy
+del AunoZXLuy
+undo
+fight

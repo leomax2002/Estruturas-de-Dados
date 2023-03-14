@@ -1,0 +1,55 @@
+add zoc
+add zoc
+stop
+del zoc
+current
+list
+stop
+undo *
+ended
+stop
+add zoc
+ended
+play
+add zoc
+list
+ended
+add zoc
+current
+undo
+next zoc
+undo
+play
+del zoc
+play
+current
+add zoc
+list
+play
+undo *
+next zoc
+current
+stop
+stop
+del zoc
+add zoc
+play
+play
+ended
+add zoc
+play
+stop
+del zoc
+current
+current
+current
+stop
+play
+next zoc
+stop
+current
+undo *
+stop
+current
+current
+fight

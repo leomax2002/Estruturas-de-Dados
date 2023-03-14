@@ -1,0 +1,200 @@
+current
+del GV
+del GV
+undo *
+undo *
+del ruNmc
+next GV
+stop
+stop
+current
+undo
+del GV
+play
+ended
+undo
+play
+del ruNmc
+stop
+stop
+current
+del ruNmc
+play
+play
+add ruNmc
+stop
+current
+add ruNmc
+current
+stop
+ended
+next GV
+stop
+play
+ended
+current
+add ruNmc
+del GV
+stop
+add ruNmc
+ended
+add ruNmc
+list
+add GV
+stop
+del ruNmc
+current
+undo *
+current
+del GV
+play
+add GV
+add ruNmc
+add GV
+del GV
+list
+stop
+next ruNmc
+undo *
+next GV
+play
+stop
+next ruNmc
+add ruNmc
+list
+del GV
+del GV
+current
+play
+ended
+undo
+undo *
+stop
+play
+stop
+del ruNmc
+add ruNmc
+ended
+stop
+stop
+add GV
+del ruNmc
+ended
+add GV
+next ruNmc
+stop
+list
+stop
+undo *
+current
+add ruNmc
+play
+next ruNmc
+del ruNmc
+list
+undo *
+undo
+play
+add ruNmc
+stop
+add ruNmc
+ended
+current
+del ruNmc
+ended
+ended
+next GV
+play
+next GV
+next ruNmc
+add ruNmc
+stop
+add ruNmc
+list
+list
+del GV
+add ruNmc
+undo
+undo
+add ruNmc
+next ruNmc
+stop
+play
+add GV
+undo *
+current
+current
+stop
+undo *
+undo *
+del ruNmc
+current
+play
+next ruNmc
+undo *
+next ruNmc
+play
+next ruNmc
+next GV
+play
+list
+del ruNmc
+next ruNmc
+undo *
+list
+stop
+next GV
+list
+ended
+list
+next ruNmc
+del GV
+next GV
+del ruNmc
+del GV
+del GV
+next ruNmc
+undo
+del GV
+undo *
+undo *
+undo *
+del ruNmc
+play
+next GV
+ended
+stop
+ended
+undo
+current
+add GV
+ended
+next ruNmc
+next ruNmc
+next ruNmc
+list
+ended
+list
+current
+play
+list
+current
+add ruNmc
+current
+add ruNmc
+del ruNmc
+undo *
+play
+play
+add ruNmc
+list
+play
+play
+next GV
+ended
+next GV
+add GV
+undo
+play
+play
+fight

@@ -1,0 +1,215 @@
+add k
+undo *
+undo
+current
+next kwBX
+list
+next k
+play
+undo *
+undo
+del k
+list
+current
+next kwBX
+add kwBX
+stop
+ended
+current
+list
+ended
+del k
+del kwBX
+play
+del kwBX
+play
+ended
+undo *
+undo *
+play
+next k
+undo *
+ended
+add k
+play
+stop
+del kwBX
+list
+add kwBX
+del kwBX
+next k
+stop
+ended
+list
+play
+add kwBX
+ended
+current
+undo *
+stop
+list
+ended
+next kwBX
+del kwBX
+del k
+add kwBX
+current
+play
+next k
+list
+undo
+next kwBX
+undo
+del k
+current
+stop
+current
+del k
+next kwBX
+del kwBX
+next k
+add k
+stop
+current
+add kwBX
+ended
+ended
+add k
+next kwBX
+current
+next kwBX
+undo *
+undo *
+add k
+undo *
+next kwBX
+current
+next kwBX
+undo *
+undo
+play
+stop
+stop
+next k
+undo *
+undo *
+current
+ended
+ended
+next kwBX
+list
+next k
+play
+undo *
+stop
+add k
+list
+current
+add k
+play
+list
+add k
+del k
+list
+next kwBX
+del k
+play
+next k
+next k
+stop
+del k
+stop
+list
+stop
+next k
+stop
+undo
+play
+ended
+current
+play
+del k
+next kwBX
+undo
+del kwBX
+stop
+undo *
+current
+del k
+undo *
+next k
+list
+ended
+ended
+undo *
+add k
+current
+next kwBX
+current
+ended
+ended
+current
+current
+next k
+current
+stop
+del kwBX
+next kwBX
+undo
+current
+play
+undo
+next k
+stop
+current
+next kwBX
+current
+ended
+ended
+play
+ended
+list
+next k
+stop
+stop
+del kwBX
+ended
+play
+current
+next kwBX
+ended
+ended
+play
+stop
+stop
+list
+list
+del kwBX
+del kwBX
+play
+current
+undo *
+ended
+list
+undo
+current
+undo
+stop
+del k
+next k
+add kwBX
+list
+play
+list
+undo
+undo *
+ended
+next kwBX
+add kwBX
+undo
+play
+next k
+add kwBX
+next k
+undo
+fight

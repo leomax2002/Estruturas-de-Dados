@@ -1,0 +1,858 @@
+add t
+list
+list
+add YhSb
+undo *
+current
+play
+ended
+play
+del t
+del YhSb
+current
+ended
+stop
+add NzO
+list
+undo *
+undo
+play
+undo
+del YhSb
+play
+undo *
+current
+current
+ended
+ended
+list
+next YhSb
+add YhSb
+ended
+stop
+ended
+del YhSb
+ended
+undo *
+list
+list
+list
+add YhSb
+current
+undo
+ended
+stop
+ended
+del t
+stop
+current
+del YhSb
+add YhSb
+add YhSb
+play
+next t
+current
+next t
+ended
+list
+undo
+add t
+list
+undo *
+stop
+play
+stop
+next YhSb
+add t
+current
+stop
+del t
+ended
+ended
+ended
+del t
+undo *
+del YhSb
+stop
+list
+next t
+undo *
+play
+play
+undo *
+undo *
+stop
+list
+list
+next NzO
+stop
+stop
+stop
+list
+undo
+stop
+del NzO
+del t
+undo
+list
+stop
+add YhSb
+add NzO
+play
+list
+add NzO
+list
+list
+del NzO
+ended
+list
+list
+next NzO
+next t
+play
+del NzO
+list
+current
+current
+ended
+ended
+next NzO
+stop
+undo *
+stop
+ended
+list
+current
+ended
+stop
+next YhSb
+current
+undo
+del NzO
+play
+list
+current
+ended
+undo *
+add YhSb
+next NzO
+del YhSb
+add t
+undo
+ended
+list
+add YhSb
+del NzO
+next YhSb
+add NzO
+play
+current
+undo *
+next YhSb
+list
+list
+del YhSb
+next t
+next t
+play
+del NzO
+current
+ended
+next YhSb
+next t
+list
+list
+stop
+play
+del NzO
+ended
+del YhSb
+add NzO
+add t
+stop
+ended
+undo
+del YhSb
+undo
+ended
+add NzO
+list
+add t
+list
+next NzO
+play
+undo *
+undo *
+next NzO
+current
+ended
+undo *
+next NzO
+stop
+ended
+play
+list
+del YhSb
+add NzO
+next t
+current
+list
+del YhSb
+current
+undo *
+stop
+next YhSb
+ended
+stop
+list
+add t
+play
+ended
+list
+undo
+undo *
+undo
+play
+current
+next NzO
+undo *
+next YhSb
+undo *
+del YhSb
+del YhSb
+ended
+del YhSb
+current
+stop
+add NzO
+play
+stop
+play
+next YhSb
+add t
+next NzO
+current
+stop
+undo
+current
+next YhSb
+play
+current
+stop
+list
+stop
+undo
+add NzO
+ended
+stop
+play
+del NzO
+next t
+del t
+play
+add YhSb
+current
+ended
+list
+add t
+next t
+current
+list
+ended
+current
+next NzO
+add t
+current
+ended
+list
+current
+ended
+next t
+next t
+add YhSb
+next NzO
+next t
+del t
+next NzO
+undo *
+ended
+current
+add t
+del YhSb
+ended
+play
+stop
+play
+undo *
+play
+add t
+list
+play
+play
+stop
+add YhSb
+add t
+del YhSb
+list
+current
+ended
+add NzO
+del YhSb
+current
+del NzO
+play
+del t
+current
+current
+ended
+ended
+undo *
+del t
+del YhSb
+ended
+stop
+play
+play
+list
+list
+stop
+ended
+current
+undo
+del YhSb
+undo *
+list
+list
+list
+del NzO
+list
+play
+ended
+next YhSb
+next NzO
+undo *
+list
+list
+play
+list
+del YhSb
+stop
+del NzO
+add YhSb
+play
+del t
+stop
+play
+del YhSb
+play
+del YhSb
+stop
+stop
+add YhSb
+undo
+del t
+del YhSb
+stop
+next t
+next t
+add NzO
+del YhSb
+del YhSb
+add YhSb
+current
+next t
+current
+add NzO
+next t
+list
+current
+undo *
+add NzO
+current
+next YhSb
+add t
+undo *
+undo
+undo
+ended
+add t
+current
+add YhSb
+next YhSb
+next t
+add t
+play
+list
+play
+ended
+ended
+play
+ended
+next YhSb
+list
+ended
+stop
+current
+add NzO
+ended
+play
+current
+play
+next YhSb
+play
+add YhSb
+ended
+play
+current
+stop
+play
+play
+add NzO
+ended
+undo *
+play
+play
+play
+add NzO
+list
+stop
+undo *
+stop
+play
+list
+stop
+current
+ended
+undo *
+del NzO
+undo *
+current
+play
+list
+stop
+del t
+play
+del YhSb
+stop
+del YhSb
+ended
+current
+stop
+stop
+undo *
+add t
+play
+current
+undo *
+add YhSb
+ended
+list
+current
+current
+del YhSb
+stop
+ended
+current
+current
+del t
+stop
+list
+undo *
+ended
+next YhSb
+ended
+del NzO
+next NzO
+play
+play
+ended
+current
+undo *
+del t
+add NzO
+list
+play
+play
+add NzO
+play
+play
+list
+current
+list
+current
+add NzO
+next t
+current
+undo
+undo *
+current
+current
+ended
+undo *
+del t
+ended
+ended
+play
+ended
+ended
+del t
+next NzO
+current
+ended
+add NzO
+stop
+next t
+undo *
+add NzO
+add NzO
+current
+next t
+undo
+next t
+del YhSb
+list
+stop
+undo *
+del NzO
+current
+stop
+list
+add YhSb
+list
+undo
+list
+play
+stop
+list
+undo
+list
+current
+ended
+current
+ended
+undo *
+next t
+next YhSb
+del t
+stop
+undo
+stop
+next NzO
+add t
+play
+play
+add NzO
+del YhSb
+list
+list
+play
+play
+del t
+stop
+current
+list
+play
+play
+stop
+play
+ended
+current
+add NzO
+stop
+stop
+list
+ended
+current
+list
+stop
+ended
+list
+next NzO
+del YhSb
+add YhSb
+ended
+ended
+add NzO
+next t
+add t
+undo *
+next t
+next t
+next NzO
+del t
+undo
+play
+ended
+ended
+current
+current
+list
+del t
+current
+play
+del t
+add NzO
+ended
+undo
+current
+current
+stop
+add YhSb
+ended
+next NzO
+next t
+current
+ended
+stop
+del t
+undo
+undo
+list
+ended
+list
+del YhSb
+list
+undo
+list
+del NzO
+next t
+play
+stop
+play
+list
+play
+list
+list
+play
+del t
+ended
+undo
+stop
+next YhSb
+list
+ended
+ended
+current
+next NzO
+add NzO
+del t
+add NzO
+ended
+add t
+add NzO
+add YhSb
+list
+add t
+ended
+play
+play
+undo *
+ended
+next YhSb
+list
+del YhSb
+del t
+current
+current
+next YhSb
+next NzO
+play
+next YhSb
+list
+add YhSb
+stop
+del NzO
+next YhSb
+next t
+del t
+current
+list
+current
+del NzO
+next YhSb
+stop
+play
+del YhSb
+undo *
+stop
+add YhSb
+add YhSb
+undo *
+list
+del t
+current
+ended
+add t
+add YhSb
+play
+current
+del NzO
+stop
+current
+add t
+next YhSb
+undo
+current
+list
+play
+current
+ended
+stop
+list
+add t
+list
+undo
+add NzO
+current
+add YhSb
+play
+add t
+current
+stop
+undo *
+list
+current
+undo *
+next YhSb
+undo *
+current
+stop
+current
+stop
+next YhSb
+current
+next t
+play
+ended
+del YhSb
+stop
+add t
+add t
+undo *
+list
+current
+stop
+add YhSb
+ended
+del NzO
+stop
+list
+stop
+play
+next t
+add YhSb
+current
+add YhSb
+add YhSb
+list
+list
+add NzO
+add NzO
+add YhSb
+list
+del NzO
+stop
+add NzO
+del YhSb
+add YhSb
+undo
+next YhSb
+list
+del t
+del YhSb
+next NzO
+undo *
+ended
+list
+undo
+play
+list
+current
+play
+play
+undo *
+add t
+del YhSb
+next NzO
+add NzO
+next YhSb
+play
+next t
+list
+list
+add NzO
+next YhSb
+stop
+ended
+undo *
+undo *
+add YhSb
+list
+next NzO
+undo
+current
+list
+add YhSb
+list
+add NzO
+stop
+stop
+undo
+current
+ended
+del YhSb
+list
+add t
+play
+play
+undo
+stop
+undo
+add NzO
+del YhSb
+del YhSb
+undo *
+add NzO
+add YhSb
+current
+next NzO
+next NzO
+del NzO
+next t
+stop
+play
+stop
+stop
+list
+play
+undo *
+ended
+next NzO
+del NzO
+del NzO
+stop
+del t
+current
+play
+add NzO
+play
+ended
+current
+ended
+next NzO
+add NzO
+add YhSb
+play
+next NzO
+next t
+ended
+next t
+play
+ended
+undo
+play
+next NzO
+undo
+current
+play
+fight

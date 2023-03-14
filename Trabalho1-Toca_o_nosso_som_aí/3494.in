@@ -1,0 +1,21 @@
+del AQK
+list
+current
+next doagWCQzW
+undo *
+undo
+play
+ended
+list
+stop
+stop
+undo
+add doagWCQzW
+add AQK
+list
+list
+next AQK
+stop
+undo
+undo *
+fight

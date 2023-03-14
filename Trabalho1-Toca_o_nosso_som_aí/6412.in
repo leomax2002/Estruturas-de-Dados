@@ -1,0 +1,52 @@
+play
+play
+undo *
+next Q
+add WqtBeBOcj
+play
+current
+del RXOxPg
+del Q
+current
+next WqtBeBOcj
+list
+next WqtBeBOcj
+play
+del WqtBeBOcj
+list
+add RXOxPg
+stop
+current
+add Q
+add fWGvUBg
+play
+list
+undo
+current
+list
+stop
+add Q
+stop
+play
+play
+stop
+stop
+del fWGvUBg
+play
+undo *
+stop
+next RXOxPg
+play
+current
+play
+stop
+list
+next RXOxPg
+play
+current
+current
+stop
+stop
+del RXOxPg
+current
+fight

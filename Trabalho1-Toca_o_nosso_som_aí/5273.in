@@ -1,0 +1,38 @@
+play
+list
+play
+ended
+undo
+stop
+current
+current
+ended
+undo *
+undo *
+play
+del FTERZEh
+play
+stop
+stop
+undo *
+next nMwD
+del nMwD
+current
+del nMwD
+undo *
+current
+del nMwD
+add FTERZEh
+add nMwD
+list
+next nMwD
+undo *
+undo
+list
+play
+next FTERZEh
+undo
+play
+next FTERZEh
+ended
+fight

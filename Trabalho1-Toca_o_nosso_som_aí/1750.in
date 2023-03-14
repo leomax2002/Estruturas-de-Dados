@@ -1,0 +1,23 @@
+list
+next mF
+next mF
+stop
+stop
+undo
+play
+list
+add zttLr
+del mF
+next mF
+ended
+play
+list
+current
+list
+play
+next zttLr
+play
+ended
+current
+stop
+fight

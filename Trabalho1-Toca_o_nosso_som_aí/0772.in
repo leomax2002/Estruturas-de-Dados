@@ -1,0 +1,78 @@
+del apNSNW
+del apNSNW
+current
+ended
+add apNSNW
+list
+stop
+undo *
+current
+add apNSNW
+next apNSNW
+ended
+next apNSNW
+current
+ended
+ended
+del apNSNW
+undo *
+current
+stop
+del apNSNW
+current
+next apNSNW
+stop
+add apNSNW
+stop
+undo *
+next apNSNW
+stop
+del apNSNW
+ended
+current
+play
+ended
+add apNSNW
+current
+ended
+ended
+undo
+next apNSNW
+current
+play
+stop
+stop
+list
+list
+stop
+current
+current
+list
+stop
+next apNSNW
+add apNSNW
+next apNSNW
+list
+undo
+stop
+play
+del apNSNW
+del apNSNW
+play
+play
+current
+add apNSNW
+current
+del apNSNW
+next apNSNW
+ended
+undo *
+play
+undo *
+stop
+play
+undo
+current
+next apNSNW
+play
+fight

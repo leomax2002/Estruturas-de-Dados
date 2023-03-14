@@ -1,0 +1,26 @@
+ended
+list
+stop
+undo *
+undo
+ended
+current
+undo
+undo
+next R
+ended
+undo *
+ended
+list
+stop
+add R
+del R
+stop
+add R
+list
+list
+play
+next R
+ended
+next R
+fight

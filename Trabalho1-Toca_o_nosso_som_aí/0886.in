@@ -1,0 +1,59 @@
+undo
+undo
+del PKAvXssE
+next PKAvXssE
+add PKAvXssE
+undo
+list
+del PKAvXssE
+ended
+undo
+next PKAvXssE
+add PKAvXssE
+list
+ended
+del PKAvXssE
+stop
+del PKAvXssE
+list
+next PKAvXssE
+del PKAvXssE
+undo
+add PKAvXssE
+stop
+current
+add PKAvXssE
+list
+list
+undo
+ended
+current
+stop
+next PKAvXssE
+current
+ended
+del PKAvXssE
+list
+undo *
+undo *
+del PKAvXssE
+add PKAvXssE
+next PKAvXssE
+undo
+undo
+play
+next PKAvXssE
+list
+add PKAvXssE
+del PKAvXssE
+next PKAvXssE
+stop
+del PKAvXssE
+play
+stop
+next PKAvXssE
+stop
+play
+list
+del PKAvXssE
+fight

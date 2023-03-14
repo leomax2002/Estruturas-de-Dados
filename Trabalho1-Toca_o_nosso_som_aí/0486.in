@@ -1,0 +1,70 @@
+del Nm
+current
+del oRrUPEFyq
+stop
+current
+stop
+play
+undo *
+stop
+list
+del l
+del oRrUPEFyq
+next Nm
+list
+add oRrUPEFyq
+add oRrUPEFyq
+stop
+undo *
+add oRrUPEFyq
+next Nm
+ended
+current
+del Nm
+stop
+list
+play
+play
+next Nm
+current
+add oRrUPEFyq
+ended
+add Nm
+undo *
+list
+play
+add l
+list
+next oRrUPEFyq
+play
+add Nm
+undo
+next Nm
+play
+del Nm
+next oRrUPEFyq
+del l
+ended
+play
+stop
+del l
+stop
+stop
+add oRrUPEFyq
+ended
+current
+play
+add Nm
+ended
+undo *
+del l
+undo *
+current
+add l
+next l
+current
+ended
+list
+del Nm
+add l
+fight

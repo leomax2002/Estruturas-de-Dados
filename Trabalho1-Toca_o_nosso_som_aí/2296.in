@@ -1,0 +1,87 @@
+current
+play
+next vbyB
+add vbyB
+current
+del vbyB
+del GNT
+ended
+add vbyB
+undo *
+ended
+undo *
+ended
+ended
+ended
+next vbyB
+next vbyB
+play
+add vbyB
+add vbyB
+add GNT
+list
+stop
+next GNT
+play
+next GNT
+add GNT
+ended
+current
+play
+del GNT
+del GNT
+add vbyB
+play
+play
+current
+next GNT
+stop
+current
+next vbyB
+stop
+del vbyB
+del vbyB
+ended
+add vbyB
+del vbyB
+ended
+del GNT
+next GNT
+list
+del GNT
+undo
+play
+play
+add GNT
+list
+undo
+next vbyB
+next vbyB
+add vbyB
+add GNT
+current
+play
+current
+stop
+list
+undo *
+next vbyB
+add vbyB
+current
+ended
+ended
+ended
+undo
+play
+add vbyB
+stop
+current
+ended
+play
+del GNT
+add GNT
+current
+list
+del vbyB
+undo *
+fight

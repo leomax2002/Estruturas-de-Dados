@@ -1,0 +1,67 @@
+undo *
+stop
+list
+stop
+stop
+add TaXX
+undo *
+list
+add TaXX
+del TaXX
+list
+undo
+next TaXX
+play
+list
+next TaXX
+ended
+next TaXX
+play
+current
+add TaXX
+ended
+stop
+ended
+del TaXX
+list
+next TaXX
+next TaXX
+current
+current
+stop
+del TaXX
+next TaXX
+play
+stop
+add TaXX
+add TaXX
+play
+current
+undo
+next TaXX
+undo *
+list
+add TaXX
+del TaXX
+play
+next TaXX
+add TaXX
+stop
+stop
+play
+undo
+current
+current
+next TaXX
+ended
+add TaXX
+play
+undo *
+ended
+stop
+del TaXX
+current
+list
+list
+list
+fight

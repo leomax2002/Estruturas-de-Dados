@@ -1,0 +1,91 @@
+current
+add RVONqvc
+add RVONqvc
+add RVONqvc
+current
+list
+list
+undo *
+ended
+undo *
+ended
+stop
+del RVONqvc
+undo *
+stop
+stop
+add RVONqvc
+undo
+ended
+undo
+ended
+current
+play
+ended
+stop
+add CVa
+del CVa
+current
+undo
+play
+stop
+next RVONqvc
+next RVONqvc
+list
+list
+undo *
+ended
+next CVa
+stop
+stop
+next CVa
+add CVa
+current
+play
+ended
+list
+del CVa
+play
+ended
+del CVa
+list
+list
+next CVa
+list
+play
+stop
+del RVONqvc
+play
+play
+current
+del RVONqvc
+ended
+add CVa
+play
+current
+undo *
+undo
+undo
+play
+ended
+undo
+add CVa
+stop
+del CVa
+list
+undo *
+play
+list
+stop
+stop
+ended
+ended
+del RVONqvc
+add CVa
+list
+stop
+current
+add RVONqvc
+add CVa
+list
+fight

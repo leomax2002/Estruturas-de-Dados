@@ -1,0 +1,56 @@
+play
+current
+del p
+next fQNFvPXAtD
+ended
+del Nkmkc
+stop
+stop
+next Nkmkc
+next fQNFvPXAtD
+del fQNFvPXAtD
+next PBPsawnVxS
+stop
+play
+undo
+undo
+list
+current
+add Nkmkc
+list
+ended
+list
+del p
+stop
+next Nkmkc
+list
+add fQNFvPXAtD
+next PBPsawnVxS
+add PBPsawnVxS
+stop
+current
+list
+stop
+del Nkmkc
+play
+del Nkmkc
+list
+next Nkmkc
+stop
+current
+undo
+ended
+undo *
+next Nkmkc
+play
+add PBPsawnVxS
+add Nkmkc
+play
+undo *
+ended
+del PBPsawnVxS
+undo *
+del p
+current
+current
+fight

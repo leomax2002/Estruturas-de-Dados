@@ -1,0 +1,53 @@
+del yDjhvP
+play
+stop
+ended
+add utc
+add utc
+add utc
+play
+ended
+play
+next yDjhvP
+del yDjhvP
+undo *
+current
+list
+next utc
+add utc
+play
+list
+stop
+next utc
+play
+stop
+add yDjhvP
+next yDjhvP
+del utc
+play
+play
+add utc
+undo *
+add yDjhvP
+play
+next utc
+add yDjhvP
+play
+play
+del yDjhvP
+undo
+current
+current
+undo
+ended
+stop
+stop
+undo
+add utc
+next yDjhvP
+current
+undo *
+current
+undo *
+del yDjhvP
+fight

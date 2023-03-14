@@ -1,0 +1,31 @@
+list
+current
+add M0
+list
+add M1
+list
+play
+undo *
+list
+add M0
+add M1
+play
+ended
+add M2
+list
+add M3
+list
+add M4
+list
+ended
+current
+ended
+current
+next M1
+list
+stop
+next M0
+list
+next M4
+list
+fight

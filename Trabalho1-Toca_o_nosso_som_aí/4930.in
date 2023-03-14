@@ -1,0 +1,23 @@
+next OOMZVEKscF
+del OOMZVEKscF
+current
+play
+del OOMZVEKscF
+add MmaqC
+play
+del OOMZVEKscF
+del MmaqC
+undo *
+del OOMZVEKscF
+ended
+current
+del OOMZVEKscF
+ended
+current
+list
+current
+add OOMZVEKscF
+play
+current
+undo
+fight

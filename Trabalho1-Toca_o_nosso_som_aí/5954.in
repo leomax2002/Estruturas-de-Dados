@@ -1,0 +1,50 @@
+list
+current
+add GD
+stop
+add zWgsuLC
+stop
+ended
+del GD
+undo
+list
+play
+del GD
+del GD
+current
+play
+list
+stop
+add EDt
+list
+ended
+undo *
+list
+current
+stop
+current
+stop
+ended
+current
+play
+undo *
+add EDt
+add DxdeN
+add EDt
+list
+undo
+ended
+stop
+list
+list
+undo
+del DxdeN
+del EDt
+undo *
+next EDt
+stop
+list
+next GD
+current
+add DxdeN
+fight

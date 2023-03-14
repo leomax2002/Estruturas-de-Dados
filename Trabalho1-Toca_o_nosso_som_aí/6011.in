@@ -1,0 +1,50 @@
+list
+undo *
+del ytSSfJK
+undo
+list
+stop
+del I
+del I
+add I
+undo *
+current
+undo *
+play
+undo *
+ended
+play
+undo
+current
+ended
+undo *
+del ytSSfJK
+current
+add ytSSfJK
+del umDkXupn
+ended
+list
+list
+current
+stop
+del umDkXupn
+current
+undo
+undo *
+del ytSSfJK
+ended
+play
+next I
+current
+next I
+add umDkXupn
+stop
+list
+ended
+ended
+stop
+del I
+ended
+next I
+list
+fight

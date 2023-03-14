@@ -1,0 +1,14 @@
+[vazia]
+Toque! Toque, Dijê!
+M0
+M0,M1
+[vazia]
+M0,M1,M2
+M0,M1,M2,M3
+M0,M1,M2,M3,M4
+M2
+M3
+M0,M2,M3,M1,M4
+M2,M3,M0,M1,M4
+M2,M3,M4,M0,M1
+Jedi Wagner, assuma o comando!

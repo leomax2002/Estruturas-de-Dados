@@ -1,0 +1,100 @@
+del mstFmbx
+play
+current
+list
+add cmCGm
+next GCXEzy
+undo
+list
+stop
+stop
+stop
+undo
+stop
+del GCXEzy
+current
+ended
+undo *
+current
+undo
+ended
+add mstFmbx
+play
+list
+current
+del mstFmbx
+list
+undo *
+list
+next mstFmbx
+add GCXEzy
+current
+add mstFmbx
+play
+stop
+play
+add GCXEzy
+del GCXEzy
+list
+next GCXEzy
+del mstFmbx
+play
+list
+current
+list
+stop
+stop
+current
+stop
+del mstFmbx
+add mstFmbx
+current
+del cmCGm
+current
+del cmCGm
+current
+stop
+del mstFmbx
+ended
+add mstFmbx
+add mstFmbx
+undo *
+add cmCGm
+current
+undo *
+next cmCGm
+stop
+del GCXEzy
+list
+current
+current
+current
+current
+list
+current
+ended
+stop
+list
+list
+list
+next cmCGm
+ended
+current
+add GCXEzy
+ended
+current
+next GCXEzy
+current
+stop
+ended
+ended
+current
+current
+current
+current
+del GCXEzy
+del mstFmbx
+del cmCGm
+del cmCGm
+ended
+fight

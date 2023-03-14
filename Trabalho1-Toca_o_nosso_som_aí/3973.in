@@ -1,0 +1,28 @@
+stop
+play
+del DkWB
+ended
+list
+play
+ended
+current
+current
+list
+stop
+add F
+play
+ended
+add WqOK
+ended
+stop
+add F
+add WqOK
+undo
+add G
+stop
+play
+play
+stop
+current
+undo *
+fight

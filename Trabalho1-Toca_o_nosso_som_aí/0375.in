@@ -1,0 +1,77 @@
+play
+list
+del vBojyWgD
+play
+play
+undo
+add H
+next Kq
+stop
+undo
+play
+ended
+list
+add Kq
+stop
+current
+ended
+add vBojyWgD
+list
+add vBojyWgD
+play
+list
+next Kq
+undo *
+list
+play
+del Kq
+stop
+stop
+play
+stop
+add vBojyWgD
+stop
+ended
+current
+next vBojyWgD
+ended
+next vBojyWgD
+next Kq
+ended
+current
+next Kq
+del H
+del Kq
+stop
+stop
+del Kq
+del vBojyWgD
+next vBojyWgD
+next H
+current
+play
+ended
+play
+ended
+next vBojyWgD
+add vBojyWgD
+play
+stop
+del Kq
+next H
+next Kq
+ended
+undo
+list
+undo *
+list
+play
+undo
+play
+play
+list
+add H
+undo *
+undo
+current
+fight

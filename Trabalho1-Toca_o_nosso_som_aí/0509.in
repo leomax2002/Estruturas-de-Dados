@@ -1,0 +1,36 @@
+next tCyokbKU
+ended
+undo
+list
+current
+current
+del tCyokbKU
+play
+current
+list
+stop
+add tCyokbKU
+current
+list
+add tCyokbKU
+add tCyokbKU
+stop
+list
+undo
+current
+add tCyokbKU
+play
+next tCyokbKU
+undo *
+ended
+add tCyokbKU
+play
+play
+list
+undo
+next tCyokbKU
+stop
+undo *
+add tCyokbKU
+undo
+fight

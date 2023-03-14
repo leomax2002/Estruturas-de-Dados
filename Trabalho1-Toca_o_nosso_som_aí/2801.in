@@ -1,0 +1,49 @@
+del tDMVr
+current
+ended
+stop
+ended
+current
+del Aqd
+next Ap
+list
+add Ap
+next Ap
+del ZBN
+play
+list
+add iBCI
+next ZBN
+stop
+ended
+stop
+ended
+current
+ended
+play
+stop
+next iBCI
+del Ap
+list
+list
+list
+ended
+list
+next tDMVr
+current
+ended
+ended
+current
+list
+next Ap
+next Ap
+next Ap
+list
+undo *
+undo *
+next ZBN
+play
+add ZBN
+next tDMVr
+list
+fight

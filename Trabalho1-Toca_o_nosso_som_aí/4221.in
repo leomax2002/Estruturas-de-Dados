@@ -1,0 +1,85 @@
+list
+current
+next gD
+play
+stop
+add gD
+list
+stop
+list
+undo *
+play
+del gD
+del gD
+undo
+next gD
+del gD
+del gD
+undo *
+stop
+add gD
+del gD
+play
+stop
+del gD
+stop
+play
+add gD
+list
+play
+current
+current
+stop
+play
+add gD
+stop
+undo *
+del gD
+play
+next gD
+next gD
+undo *
+add gD
+del gD
+add gD
+add gD
+undo
+current
+del gD
+list
+play
+del gD
+current
+ended
+del gD
+stop
+next gD
+current
+add gD
+undo *
+stop
+current
+list
+del gD
+next gD
+stop
+ended
+next gD
+del gD
+list
+play
+ended
+next gD
+play
+next gD
+add gD
+ended
+add gD
+ended
+play
+undo
+next gD
+current
+next gD
+next gD
+fight

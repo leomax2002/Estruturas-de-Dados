@@ -1,0 +1,34 @@
+stop
+undo *
+undo
+play
+current
+undo *
+list
+current
+play
+add EU
+add c
+del EU
+current
+add EU
+stop
+undo
+list
+undo *
+list
+add c
+next EU
+add EU
+stop
+current
+del EU
+undo
+undo *
+stop
+next EU
+add c
+list
+list
+ended
+fight

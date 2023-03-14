@@ -1,0 +1,39 @@
+del GBj
+del KXVC
+current
+play
+ended
+play
+ended
+ended
+next KXVC
+play
+undo
+add n
+play
+ended
+play
+del KXVC
+play
+next fx
+add fx
+current
+current
+del fx
+list
+undo
+add jhvojhON
+add M
+stop
+ended
+current
+play
+current
+stop
+undo
+ended
+undo *
+stop
+list
+next M
+fight

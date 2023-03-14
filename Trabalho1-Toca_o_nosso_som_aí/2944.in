@@ -1,0 +1,43 @@
+play
+list
+current
+current
+undo *
+current
+next ZoZi
+next ZoZi
+add ZoZi
+undo
+add ZoZi
+list
+stop
+list
+ended
+stop
+stop
+ended
+del ZoZi
+list
+next ZoZi
+current
+stop
+list
+current
+add ZoZi
+ended
+del ZoZi
+add ZoZi
+undo *
+list
+list
+list
+del ZoZi
+list
+stop
+current
+ended
+current
+ended
+play
+undo
+fight

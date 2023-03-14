@@ -1,0 +1,46 @@
+del HfvjYLoL
+next HfvjYLoL
+current
+stop
+add HfvjYLoL
+current
+undo *
+next HfvjYLoL
+undo *
+current
+current
+list
+stop
+next HfvjYLoL
+undo
+stop
+del HfvjYLoL
+current
+undo *
+stop
+list
+undo *
+add HfvjYLoL
+ended
+list
+current
+ended
+add HfvjYLoL
+next HfvjYLoL
+undo *
+ended
+undo *
+next HfvjYLoL
+next HfvjYLoL
+ended
+del HfvjYLoL
+undo *
+del HfvjYLoL
+ended
+current
+next HfvjYLoL
+add HfvjYLoL
+stop
+next HfvjYLoL
+play
+fight

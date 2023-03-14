@@ -1,0 +1,38 @@
+play
+current
+next axH
+del dStJiH
+add dStJiH
+undo
+play
+undo
+undo
+play
+add axH
+del axH
+stop
+ended
+play
+ended
+del dStJiH
+play
+current
+list
+next LiEEFKtDi
+add dStJiH
+add LiEEFKtDi
+stop
+undo *
+ended
+undo
+next LiEEFKtDi
+del dStJiH
+undo *
+next axH
+current
+del LiEEFKtDi
+play
+play
+stop
+undo
+fight

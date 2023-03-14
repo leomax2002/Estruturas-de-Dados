@@ -1,0 +1,11 @@
+stop
+list
+del zkVlE
+play
+add zkVlE
+play
+ended
+del IuLVZClth
+stop
+undo *
+fight

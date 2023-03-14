@@ -1,0 +1,73 @@
+next mLlnM
+stop
+add ol
+add mLlnM
+play
+undo
+next ol
+add mLlnM
+stop
+ended
+play
+next ol
+del mLlnM
+stop
+play
+play
+next ol
+play
+del ol
+undo
+current
+del mLlnM
+add mLlnM
+del ol
+undo *
+next ol
+ended
+play
+del mLlnM
+play
+del ol
+del mLlnM
+del mLlnM
+current
+add ol
+list
+ended
+undo
+current
+ended
+add mLlnM
+del ol
+undo
+add ol
+del mLlnM
+play
+current
+add mLlnM
+del mLlnM
+current
+list
+stop
+stop
+add ol
+stop
+list
+undo *
+del ol
+stop
+add mLlnM
+current
+current
+undo *
+play
+add mLlnM
+play
+add mLlnM
+del ol
+stop
+next ol
+stop
+del mLlnM
+fight

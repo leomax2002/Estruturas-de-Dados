@@ -1,0 +1,102 @@
+add jSVcu
+del jSVcu
+ended
+undo *
+stop
+list
+add jSVcu
+list
+play
+undo
+play
+del jSVcu
+next jSVcu
+ended
+list
+del jSVcu
+add jSVcu
+del jSVcu
+list
+next jSVcu
+del jSVcu
+undo *
+stop
+del jSVcu
+del jSVcu
+current
+del jSVcu
+current
+list
+next jSVcu
+list
+stop
+add jSVcu
+stop
+ended
+list
+list
+add jSVcu
+undo *
+ended
+del jSVcu
+ended
+next jSVcu
+play
+add jSVcu
+ended
+list
+current
+del jSVcu
+undo *
+current
+del jSVcu
+next jSVcu
+play
+undo *
+list
+next jSVcu
+undo *
+list
+list
+add jSVcu
+del jSVcu
+del jSVcu
+play
+ended
+undo
+del jSVcu
+undo
+current
+stop
+add jSVcu
+current
+next jSVcu
+stop
+del jSVcu
+ended
+stop
+del jSVcu
+del jSVcu
+next jSVcu
+next jSVcu
+undo
+add jSVcu
+next jSVcu
+del jSVcu
+ended
+list
+del jSVcu
+next jSVcu
+play
+del jSVcu
+add jSVcu
+current
+add jSVcu
+stop
+del jSVcu
+next jSVcu
+stop
+play
+current
+undo
+fight

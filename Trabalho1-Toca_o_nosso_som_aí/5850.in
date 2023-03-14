@@ -1,0 +1,16 @@
+current
+play
+list
+undo *
+play
+del NTgbiJ
+current
+undo
+play
+stop
+next NTgbiJ
+ended
+play
+list
+stop
+fight

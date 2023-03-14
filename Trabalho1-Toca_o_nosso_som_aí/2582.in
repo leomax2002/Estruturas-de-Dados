@@ -1,0 +1,47 @@
+next Ao
+stop
+stop
+current
+next Ao
+stop
+del CgYKBsugRD
+add CgYKBsugRD
+del Ao
+next Ao
+undo *
+add Ao
+add CgYKBsugRD
+current
+current
+ended
+add CgYKBsugRD
+undo *
+play
+list
+add CgYKBsugRD
+list
+next CgYKBsugRD
+add CgYKBsugRD
+next CgYKBsugRD
+del CgYKBsugRD
+play
+next Ao
+undo *
+list
+play
+list
+add CgYKBsugRD
+add Ao
+ended
+ended
+play
+del CgYKBsugRD
+play
+undo
+add Ao
+next Ao
+del Ao
+del Ao
+del CgYKBsugRD
+del Ao
+fight

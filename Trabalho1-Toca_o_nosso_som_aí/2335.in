@@ -1,0 +1,39 @@
+next UBDVl
+add nbf
+play
+add plXJOI
+add plXJOI
+next nbf
+play
+list
+current
+play
+del plXJOI
+next UBDVl
+next UBDVl
+stop
+add plXJOI
+play
+stop
+del UBDVl
+current
+add UBDVl
+next UBDVl
+next plXJOI
+add nbf
+del UBDVl
+next plXJOI
+stop
+stop
+next plXJOI
+play
+undo
+stop
+add nbf
+list
+list
+del plXJOI
+undo *
+undo *
+add plXJOI
+fight

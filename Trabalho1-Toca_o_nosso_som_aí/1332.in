@@ -1,0 +1,32 @@
+play
+list
+add YFsIvoI
+next UHuxke
+ended
+stop
+del VFinJmYK
+list
+undo *
+add YFsIvoI
+undo *
+list
+add VFinJmYK
+add L
+current
+del YFsIvoI
+list
+undo
+undo *
+list
+undo
+add L
+next UHuxke
+del L
+list
+next YFsIvoI
+next YFsIvoI
+current
+play
+ended
+add L
+fight

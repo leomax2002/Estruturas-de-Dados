@@ -1,0 +1,45 @@
+stop
+add Btfm
+undo
+undo *
+stop
+del mKvsESbmc
+stop
+current
+undo *
+play
+current
+next Btfm
+stop
+add TyBgATemw
+current
+del mKvsESbmc
+add mKvsESbmc
+current
+undo
+stop
+play
+stop
+undo *
+stop
+play
+undo
+del mKvsESbmc
+undo
+ended
+undo *
+next mKvsESbmc
+undo
+list
+play
+play
+add mKvsESbmc
+ended
+ended
+list
+add mKvsESbmc
+stop
+ended
+undo *
+list
+fight

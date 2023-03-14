@@ -1,0 +1,43 @@
+undo *
+del TjPz
+add FLEkn
+next vn
+next TjPz
+list
+undo *
+ended
+list
+next vn
+add FLEkn
+current
+del MTQN
+undo
+play
+undo
+ended
+list
+stop
+current
+play
+stop
+stop
+del vn
+add FLEkn
+add MTQN
+undo
+current
+del TjPz
+play
+undo
+next MTQN
+play
+current
+stop
+stop
+current
+undo *
+stop
+ended
+del FLEkn
+add MTQN
+fight

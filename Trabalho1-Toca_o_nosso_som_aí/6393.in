@@ -1,0 +1,40 @@
+next EBCoErghmn
+next lyeQY
+del lyeQY
+del EBCoErghmn
+ended
+next u
+del u
+play
+stop
+ended
+next EBCoErghmn
+current
+list
+add tXh
+del tXh
+stop
+del EBCoErghmn
+ended
+del EBCoErghmn
+undo
+list
+add lyeQY
+undo *
+ended
+ended
+current
+del EBCoErghmn
+add yGhUKkufeC
+list
+play
+list
+list
+ended
+del yGhUKkufeC
+current
+stop
+play
+stop
+stop
+fight

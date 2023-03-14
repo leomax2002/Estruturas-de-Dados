@@ -1,0 +1,11 @@
+add pchU
+add cj
+stop
+add pchU
+next RQnadRAR
+next pchU
+add cj
+current
+next RQnadRAR
+del cj
+fight

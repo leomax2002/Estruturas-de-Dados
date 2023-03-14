@@ -1,0 +1,141 @@
+list
+del VY
+list
+stop
+stop
+add SzCBUBHFt
+del SzCBUBHFt
+current
+undo *
+next SzCBUBHFt
+undo *
+current
+ended
+current
+stop
+next VY
+play
+undo *
+current
+list
+del SzCBUBHFt
+next jWuC
+add SzCBUBHFt
+next VY
+undo *
+play
+undo *
+ended
+undo *
+del jWuC
+next jWuC
+current
+play
+next SzCBUBHFt
+ended
+stop
+ended
+undo
+undo *
+ended
+ended
+next VY
+play
+list
+del VY
+list
+stop
+play
+list
+list
+ended
+list
+undo *
+current
+play
+undo *
+play
+current
+list
+stop
+current
+next VY
+stop
+del jWuC
+next jWuC
+undo *
+stop
+undo
+ended
+next VY
+next VY
+list
+current
+stop
+current
+next SzCBUBHFt
+list
+current
+stop
+next VY
+play
+list
+current
+undo
+ended
+add SzCBUBHFt
+stop
+del VY
+del VY
+next jWuC
+add SzCBUBHFt
+list
+ended
+ended
+next jWuC
+current
+list
+del jWuC
+del SzCBUBHFt
+add jWuC
+add SzCBUBHFt
+current
+ended
+add VY
+undo
+undo
+next jWuC
+next VY
+play
+stop
+undo
+play
+add SzCBUBHFt
+list
+del SzCBUBHFt
+ended
+del VY
+current
+add SzCBUBHFt
+undo *
+list
+stop
+stop
+del jWuC
+ended
+current
+undo
+next jWuC
+current
+ended
+undo
+next jWuC
+add VY
+add VY
+undo *
+current
+current
+ended
+current
+stop
+fight

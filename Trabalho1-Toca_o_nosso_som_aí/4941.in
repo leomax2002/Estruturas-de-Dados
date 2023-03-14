@@ -1,0 +1,63 @@
+add HxAD
+ended
+current
+add HxAD
+undo
+list
+ended
+current
+list
+stop
+ended
+add qFbKMPTt
+play
+next HxAD
+list
+undo
+current
+play
+ended
+next HxAD
+ended
+del qFbKMPTt
+next HxAD
+stop
+current
+current
+undo
+next HxAD
+current
+ended
+ended
+undo
+current
+play
+stop
+current
+add HxAD
+del HxAD
+stop
+play
+ended
+del HxAD
+add HxAD
+next HxAD
+add qFbKMPTt
+next qFbKMPTt
+del qFbKMPTt
+stop
+del HxAD
+play
+next qFbKMPTt
+ended
+play
+ended
+play
+current
+undo *
+add qFbKMPTt
+stop
+del qFbKMPTt
+play
+current
+fight

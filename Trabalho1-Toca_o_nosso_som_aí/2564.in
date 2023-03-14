@@ -1,0 +1,121 @@
+del L
+stop
+play
+list
+del HbOSsDZBNW
+next L
+del it
+play
+list
+play
+add HbOSsDZBNW
+undo
+stop
+add it
+undo *
+add EUMfT
+add HbOSsDZBNW
+undo
+undo *
+add L
+next L
+ended
+list
+current
+undo
+stop
+add it
+list
+del L
+undo
+del it
+stop
+add it
+next it
+ended
+list
+current
+current
+stop
+undo
+add HbOSsDZBNW
+play
+list
+stop
+current
+next HbOSsDZBNW
+add L
+undo
+undo *
+current
+add EUMfT
+stop
+next HbOSsDZBNW
+undo *
+undo
+undo *
+add it
+next HbOSsDZBNW
+current
+next it
+undo *
+del EUMfT
+add L
+undo *
+next L
+ended
+add it
+list
+list
+play
+stop
+play
+next HbOSsDZBNW
+ended
+ended
+undo *
+add EUMfT
+next HbOSsDZBNW
+add EUMfT
+next it
+del EUMfT
+stop
+current
+play
+next it
+add L
+undo *
+stop
+list
+stop
+list
+stop
+next HbOSsDZBNW
+stop
+next it
+ended
+play
+stop
+current
+stop
+stop
+current
+ended
+next HbOSsDZBNW
+current
+next L
+list
+del HbOSsDZBNW
+stop
+stop
+ended
+list
+stop
+list
+play
+ended
+play
+current
+del it
+ended
+fight

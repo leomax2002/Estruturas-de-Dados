@@ -1,0 +1,72 @@
+add BSMk
+stop
+current
+current
+list
+next qSjQ
+next qSjQ
+add BSMk
+del BSMk
+list
+ended
+current
+next BSMk
+del BSMk
+undo *
+play
+current
+del BSMk
+ended
+add BSMk
+undo
+current
+undo *
+stop
+next qSjQ
+list
+add BSMk
+ended
+list
+play
+del BSMk
+list
+ended
+next qSjQ
+del BSMk
+ended
+list
+stop
+current
+current
+play
+stop
+stop
+stop
+del qSjQ
+next BSMk
+add qSjQ
+ended
+list
+list
+undo *
+undo *
+current
+ended
+play
+undo
+undo *
+current
+next qSjQ
+ended
+ended
+add BSMk
+play
+del BSMk
+undo *
+current
+add qSjQ
+del BSMk
+next BSMk
+add qSjQ
+next qSjQ
+fight

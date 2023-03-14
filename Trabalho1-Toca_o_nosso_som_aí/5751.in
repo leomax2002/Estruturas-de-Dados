@@ -1,0 +1,97 @@
+play
+del zmqwiR
+play
+play
+undo *
+add vmU
+next vmU
+next vmU
+undo *
+list
+ended
+stop
+play
+undo *
+del vmU
+undo
+next zmqwiR
+del vmU
+play
+undo *
+stop
+add zmqwiR
+del vmU
+undo
+add vmU
+current
+add zmqwiR
+list
+add zmqwiR
+play
+ended
+play
+play
+undo *
+next zmqwiR
+undo *
+list
+add vmU
+add zmqwiR
+add vmU
+stop
+list
+del zmqwiR
+stop
+del vmU
+del zmqwiR
+next vmU
+add zmqwiR
+play
+play
+play
+stop
+del zmqwiR
+ended
+add vmU
+stop
+del zmqwiR
+list
+stop
+current
+current
+undo
+list
+current
+del vmU
+stop
+play
+stop
+stop
+del zmqwiR
+add vmU
+undo
+undo
+undo *
+ended
+current
+list
+undo *
+next vmU
+del zmqwiR
+del vmU
+next zmqwiR
+del zmqwiR
+next zmqwiR
+list
+stop
+current
+next zmqwiR
+next zmqwiR
+ended
+add vmU
+list
+stop
+add vmU
+del vmU
+add zmqwiR
+fight

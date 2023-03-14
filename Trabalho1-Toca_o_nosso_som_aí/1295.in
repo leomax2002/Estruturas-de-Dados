@@ -1,0 +1,77 @@
+undo *
+stop
+del WC
+play
+del wuGFWNL
+add wuGFWNL
+next WC
+list
+add WC
+undo *
+stop
+current
+del wuGFWNL
+undo *
+undo *
+current
+next wuGFWNL
+ended
+ended
+undo
+add WC
+current
+undo *
+play
+next wuGFWNL
+del WC
+next wuGFWNL
+stop
+current
+stop
+ended
+list
+play
+del WC
+ended
+undo
+add wuGFWNL
+del wuGFWNL
+add WC
+ended
+stop
+undo
+play
+list
+list
+add WC
+stop
+del wuGFWNL
+undo
+add wuGFWNL
+current
+next WC
+ended
+play
+add wuGFWNL
+stop
+add WC
+del WC
+add WC
+undo *
+play
+undo
+current
+add WC
+del WC
+stop
+add WC
+play
+del WC
+ended
+stop
+del WC
+next WC
+play
+ended
+play
+fight

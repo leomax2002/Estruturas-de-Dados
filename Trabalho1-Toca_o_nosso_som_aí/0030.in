@@ -1,0 +1,14 @@
+del zl
+play
+del zl
+del GN
+ended
+play
+undo *
+del nGI
+add OQAQATQ
+undo
+current
+stop
+play
+fight

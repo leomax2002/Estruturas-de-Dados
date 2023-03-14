@@ -1,0 +1,752 @@
+del WS
+next WS
+current
+current
+list
+play
+play
+add WS
+stop
+current
+list
+current
+del WS
+next WS
+next WS
+current
+list
+ended
+current
+play
+add WS
+next WS
+next WS
+play
+list
+ended
+play
+del WS
+del WS
+undo
+undo *
+add WS
+next WS
+current
+current
+undo *
+next WS
+current
+list
+stop
+stop
+current
+undo *
+play
+del WS
+stop
+undo
+stop
+current
+ended
+undo
+undo
+stop
+undo
+undo
+current
+next WS
+add WS
+next WS
+del WS
+current
+del WS
+current
+undo
+stop
+play
+play
+undo *
+stop
+add WS
+stop
+add WS
+ended
+add WS
+current
+del WS
+list
+stop
+del WS
+del WS
+list
+stop
+list
+current
+current
+play
+del WS
+current
+stop
+add WS
+stop
+del WS
+play
+undo *
+play
+current
+ended
+current
+list
+current
+undo
+play
+next WS
+next WS
+current
+undo
+undo *
+current
+del WS
+next WS
+current
+next WS
+current
+add WS
+undo *
+add WS
+ended
+stop
+undo *
+list
+play
+add WS
+next WS
+play
+stop
+undo *
+play
+del WS
+play
+next WS
+current
+undo *
+list
+list
+undo
+next WS
+list
+del WS
+list
+add WS
+list
+add WS
+next WS
+list
+del WS
+current
+ended
+next WS
+undo *
+current
+list
+next WS
+list
+next WS
+next WS
+ended
+del WS
+play
+next WS
+current
+del WS
+play
+add WS
+del WS
+undo *
+ended
+stop
+next WS
+next WS
+ended
+current
+play
+current
+ended
+add WS
+list
+play
+next WS
+ended
+ended
+next WS
+play
+next WS
+del WS
+list
+del WS
+undo *
+del WS
+list
+next WS
+ended
+undo *
+add WS
+stop
+next WS
+ended
+current
+next WS
+undo
+play
+add WS
+ended
+undo *
+list
+add WS
+undo *
+stop
+stop
+add WS
+list
+next WS
+add WS
+del WS
+del WS
+del WS
+current
+undo *
+current
+stop
+ended
+current
+next WS
+play
+current
+play
+add WS
+stop
+list
+undo
+list
+play
+current
+list
+current
+stop
+stop
+add WS
+add WS
+ended
+del WS
+del WS
+next WS
+next WS
+play
+undo *
+undo
+ended
+current
+next WS
+current
+del WS
+add WS
+del WS
+del WS
+add WS
+del WS
+ended
+list
+add WS
+del WS
+current
+stop
+current
+add WS
+undo
+current
+list
+next WS
+stop
+next WS
+next WS
+add WS
+ended
+stop
+stop
+next WS
+add WS
+del WS
+undo
+list
+ended
+undo *
+undo
+del WS
+del WS
+list
+undo
+play
+undo
+current
+add WS
+stop
+play
+add WS
+play
+del WS
+del WS
+play
+play
+add WS
+ended
+undo *
+stop
+stop
+current
+current
+stop
+ended
+del WS
+current
+ended
+undo *
+add WS
+del WS
+del WS
+stop
+add WS
+stop
+undo *
+del WS
+next WS
+current
+list
+list
+add WS
+ended
+stop
+stop
+add WS
+stop
+play
+next WS
+add WS
+next WS
+undo *
+play
+del WS
+add WS
+del WS
+add WS
+stop
+ended
+add WS
+ended
+list
+list
+ended
+list
+ended
+ended
+undo
+current
+stop
+undo *
+stop
+ended
+del WS
+add WS
+ended
+current
+ended
+play
+play
+undo *
+undo *
+play
+next WS
+ended
+undo
+del WS
+stop
+stop
+next WS
+undo
+next WS
+list
+undo *
+undo
+del WS
+current
+add WS
+next WS
+del WS
+current
+list
+next WS
+current
+next WS
+undo *
+next WS
+undo *
+next WS
+play
+list
+list
+list
+stop
+play
+current
+current
+play
+list
+del WS
+list
+next WS
+add WS
+stop
+current
+play
+ended
+add WS
+next WS
+list
+undo *
+del WS
+add WS
+next WS
+stop
+undo
+current
+del WS
+stop
+current
+del WS
+del WS
+list
+play
+add WS
+add WS
+ended
+add WS
+del WS
+ended
+play
+stop
+undo
+ended
+stop
+next WS
+del WS
+stop
+undo
+ended
+current
+ended
+play
+stop
+list
+next WS
+undo *
+play
+undo *
+current
+play
+play
+undo
+undo
+stop
+play
+play
+play
+ended
+play
+next WS
+list
+undo *
+ended
+list
+ended
+stop
+ended
+next WS
+undo
+undo
+add WS
+next WS
+del WS
+ended
+ended
+del WS
+next WS
+next WS
+add WS
+current
+play
+add WS
+next WS
+add WS
+ended
+add WS
+list
+play
+ended
+undo *
+stop
+ended
+current
+undo
+current
+ended
+stop
+play
+add WS
+stop
+next WS
+list
+undo
+stop
+ended
+stop
+del WS
+stop
+next WS
+del WS
+ended
+list
+ended
+del WS
+play
+current
+stop
+next WS
+del WS
+play
+next WS
+stop
+ended
+current
+next WS
+next WS
+add WS
+ended
+ended
+list
+undo *
+add WS
+stop
+undo *
+del WS
+play
+undo *
+undo
+list
+add WS
+play
+stop
+current
+add WS
+play
+list
+undo
+ended
+stop
+stop
+list
+stop
+undo *
+ended
+list
+ended
+current
+next WS
+current
+stop
+del WS
+del WS
+stop
+next WS
+del WS
+del WS
+del WS
+play
+ended
+current
+ended
+next WS
+undo
+add WS
+next WS
+stop
+play
+add WS
+current
+undo *
+stop
+next WS
+current
+del WS
+undo *
+add WS
+undo *
+ended
+play
+play
+next WS
+stop
+play
+next WS
+next WS
+add WS
+stop
+add WS
+list
+current
+play
+stop
+next WS
+stop
+current
+play
+next WS
+stop
+ended
+list
+next WS
+list
+play
+play
+add WS
+add WS
+next WS
+del WS
+ended
+ended
+undo *
+ended
+ended
+list
+undo *
+del WS
+del WS
+ended
+current
+stop
+play
+stop
+ended
+del WS
+next WS
+stop
+del WS
+stop
+add WS
+play
+stop
+play
+next WS
+del WS
+undo
+ended
+stop
+play
+list
+list
+undo
+next WS
+stop
+del WS
+next WS
+add WS
+add WS
+stop
+list
+stop
+list
+undo
+play
+undo
+add WS
+stop
+stop
+undo *
+current
+stop
+del WS
+ended
+play
+add WS
+ended
+del WS
+next WS
+play
+play
+play
+del WS
+stop
+next WS
+add WS
+add WS
+current
+add WS
+undo
+ended
+play
+list
+stop
+ended
+list
+current
+list
+del WS
+del WS
+next WS
+current
+undo
+ended
+next WS
+list
+play
+add WS
+list
+undo
+ended
+ended
+ended
+play
+undo
+undo *
+play
+undo
+ended
+list
+del WS
+play
+list
+ended
+play
+play
+del WS
+undo
+play
+play
+play
+next WS
+del WS
+del WS
+list
+del WS
+ended
+undo *
+next WS
+next WS
+current
+play
+play
+del WS
+undo
+undo *
+play
+stop
+del WS
+fight

@@ -1,0 +1,131 @@
+undo *
+current
+undo *
+current
+undo
+current
+stop
+play
+next t
+del t
+del Gyp
+add Gyp
+del t
+stop
+undo
+current
+ended
+list
+list
+current
+play
+next t
+next t
+del t
+add Qh
+list
+add Qh
+play
+ended
+current
+undo
+current
+current
+stop
+play
+ended
+current
+del Gyp
+play
+play
+ended
+current
+ended
+list
+add t
+list
+next t
+play
+del Qh
+play
+add Qh
+current
+next t
+add Qh
+current
+ended
+undo
+stop
+ended
+del t
+del Qh
+stop
+current
+current
+next t
+undo *
+del t
+next t
+play
+list
+play
+current
+add t
+play
+ended
+ended
+del Gyp
+list
+current
+undo
+stop
+current
+ended
+next t
+next t
+undo *
+ended
+stop
+play
+undo
+del Qh
+del t
+play
+current
+current
+ended
+undo
+list
+del Qh
+ended
+ended
+current
+undo *
+ended
+current
+next Qh
+ended
+next Qh
+del Qh
+play
+add t
+play
+list
+stop
+add Qh
+current
+ended
+add Qh
+list
+current
+play
+stop
+play
+list
+play
+del Qh
+ended
+undo
+del Gyp
+current
+fight

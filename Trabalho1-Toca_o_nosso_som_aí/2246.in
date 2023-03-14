@@ -1,0 +1,20 @@
+list
+add ySW
+del QdiqQFw
+add QdiqQFw
+undo *
+list
+current
+current
+stop
+del QdiqQFw
+current
+ended
+current
+stop
+current
+next ySW
+list
+stop
+current
+fight

@@ -1,0 +1,37 @@
+ended
+stop
+ended
+current
+undo *
+next Kve
+ended
+undo *
+current
+list
+list
+del Kve
+del Kve
+ended
+del Kve
+stop
+undo
+add Kve
+list
+del Kve
+current
+ended
+next Kve
+ended
+del Kve
+next Kve
+add Kve
+play
+add Kve
+ended
+stop
+del Kve
+add Kve
+play
+list
+stop
+fight

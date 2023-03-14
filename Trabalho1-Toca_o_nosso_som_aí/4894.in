@@ -1,0 +1,438 @@
+list
+current
+current
+stop
+list
+ended
+current
+next IfNBX
+list
+del IfNBX
+current
+next IfNBX
+ended
+list
+add IfNBX
+stop
+play
+play
+next IfNBX
+list
+next IfNBX
+play
+undo *
+current
+add IfNBX
+stop
+ended
+play
+ended
+ended
+next IfNBX
+add IfNBX
+ended
+current
+undo *
+undo *
+add IfNBX
+ended
+stop
+add IfNBX
+next IfNBX
+del IfNBX
+ended
+list
+next IfNBX
+current
+undo *
+stop
+play
+del IfNBX
+current
+del IfNBX
+del IfNBX
+undo
+list
+del IfNBX
+play
+undo
+ended
+ended
+del IfNBX
+current
+del IfNBX
+undo
+add IfNBX
+stop
+del IfNBX
+list
+del IfNBX
+current
+play
+add IfNBX
+ended
+add IfNBX
+current
+play
+list
+list
+add IfNBX
+del IfNBX
+add IfNBX
+ended
+add IfNBX
+ended
+play
+play
+add IfNBX
+list
+current
+add IfNBX
+undo *
+undo *
+current
+add IfNBX
+del IfNBX
+undo
+add IfNBX
+ended
+next IfNBX
+current
+stop
+next IfNBX
+list
+list
+add IfNBX
+next IfNBX
+stop
+stop
+current
+ended
+del IfNBX
+del IfNBX
+ended
+next IfNBX
+del IfNBX
+play
+next IfNBX
+undo
+del IfNBX
+stop
+add IfNBX
+stop
+play
+ended
+stop
+ended
+list
+list
+next IfNBX
+stop
+del IfNBX
+play
+undo *
+del IfNBX
+stop
+undo *
+current
+list
+current
+next IfNBX
+current
+current
+stop
+add IfNBX
+current
+current
+stop
+current
+play
+stop
+ended
+next IfNBX
+next IfNBX
+add IfNBX
+ended
+undo *
+add IfNBX
+next IfNBX
+list
+current
+undo *
+next IfNBX
+del IfNBX
+current
+play
+list
+add IfNBX
+current
+next IfNBX
+add IfNBX
+stop
+list
+add IfNBX
+list
+current
+del IfNBX
+next IfNBX
+next IfNBX
+undo *
+stop
+stop
+next IfNBX
+undo
+add IfNBX
+list
+list
+ended
+undo *
+ended
+ended
+undo
+current
+play
+add IfNBX
+del IfNBX
+next IfNBX
+undo
+list
+add IfNBX
+current
+list
+list
+play
+next IfNBX
+add IfNBX
+undo
+play
+next IfNBX
+play
+add IfNBX
+ended
+list
+current
+current
+current
+current
+add IfNBX
+current
+del IfNBX
+del IfNBX
+stop
+add IfNBX
+del IfNBX
+undo *
+list
+add IfNBX
+add IfNBX
+del IfNBX
+ended
+list
+stop
+play
+play
+ended
+stop
+list
+undo *
+add IfNBX
+ended
+add IfNBX
+add IfNBX
+ended
+undo *
+play
+ended
+del IfNBX
+list
+next IfNBX
+list
+list
+next IfNBX
+next IfNBX
+stop
+current
+play
+current
+undo
+current
+del IfNBX
+stop
+current
+next IfNBX
+next IfNBX
+list
+next IfNBX
+undo *
+del IfNBX
+stop
+next IfNBX
+current
+list
+del IfNBX
+add IfNBX
+play
+undo *
+undo
+play
+play
+next IfNBX
+add IfNBX
+next IfNBX
+next IfNBX
+next IfNBX
+ended
+ended
+stop
+ended
+del IfNBX
+list
+stop
+current
+del IfNBX
+undo *
+del IfNBX
+list
+next IfNBX
+add IfNBX
+next IfNBX
+ended
+list
+ended
+stop
+add IfNBX
+stop
+del IfNBX
+undo *
+del IfNBX
+play
+undo *
+list
+play
+list
+del IfNBX
+undo
+add IfNBX
+stop
+del IfNBX
+next IfNBX
+add IfNBX
+ended
+del IfNBX
+list
+ended
+list
+list
+ended
+add IfNBX
+current
+ended
+play
+current
+next IfNBX
+current
+list
+next IfNBX
+stop
+current
+list
+current
+current
+stop
+add IfNBX
+ended
+stop
+current
+add IfNBX
+next IfNBX
+del IfNBX
+list
+play
+add IfNBX
+current
+next IfNBX
+next IfNBX
+undo
+undo
+stop
+del IfNBX
+del IfNBX
+stop
+del IfNBX
+ended
+del IfNBX
+next IfNBX
+stop
+undo
+ended
+list
+ended
+del IfNBX
+play
+list
+stop
+play
+del IfNBX
+add IfNBX
+next IfNBX
+del IfNBX
+undo *
+undo *
+ended
+list
+stop
+next IfNBX
+stop
+stop
+next IfNBX
+stop
+del IfNBX
+list
+play
+del IfNBX
+undo *
+undo
+undo *
+ended
+stop
+add IfNBX
+add IfNBX
+current
+list
+del IfNBX
+current
+current
+current
+list
+ended
+stop
+list
+play
+ended
+add IfNBX
+undo *
+add IfNBX
+stop
+add IfNBX
+stop
+next IfNBX
+del IfNBX
+next IfNBX
+next IfNBX
+ended
+ended
+current
+current
+del IfNBX
+undo
+undo
+undo
+current
+ended
+stop
+undo
+ended
+del IfNBX
+ended
+del IfNBX
+fight

@@ -1,0 +1,34 @@
+del JwRVLsLc
+list
+undo *
+del d
+stop
+next sCrnYZrN
+list
+ended
+del d
+ended
+next JwRVLsLc
+current
+stop
+play
+list
+current
+del d
+list
+stop
+play
+current
+del d
+play
+list
+current
+current
+add sCrnYZrN
+ended
+list
+add JwRVLsLc
+ended
+list
+undo *
+fight

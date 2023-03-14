@@ -1,0 +1,80 @@
+del BJQBB
+play
+current
+stop
+next oQpNKkVA
+add BJQBB
+del YkEJSKaMV
+play
+ended
+current
+ended
+ended
+current
+ended
+undo
+next BJQBB
+add YkEJSKaMV
+add BJQBB
+current
+add oQpNKkVA
+play
+undo *
+play
+list
+undo *
+next BJQBB
+next oQpNKkVA
+stop
+add BJQBB
+undo *
+list
+ended
+current
+ended
+current
+undo *
+list
+play
+current
+ended
+list
+del BJQBB
+undo *
+undo *
+ended
+add oQpNKkVA
+list
+play
+list
+next oQpNKkVA
+stop
+list
+stop
+list
+undo *
+list
+stop
+list
+add BJQBB
+play
+del BJQBB
+next BJQBB
+play
+ended
+undo *
+del BJQBB
+list
+add YkEJSKaMV
+current
+ended
+current
+undo *
+del BJQBB
+list
+play
+play
+undo
+play
+ended
+fight

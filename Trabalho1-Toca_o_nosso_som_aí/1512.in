@@ -1,0 +1,109 @@
+del kVA
+undo *
+list
+ended
+undo
+stop
+undo *
+ended
+stop
+list
+next kVA
+undo
+current
+next kVA
+add kVA
+play
+next kVA
+play
+play
+current
+play
+list
+play
+ended
+undo
+next kVA
+ended
+list
+del kVA
+list
+ended
+stop
+stop
+stop
+list
+list
+current
+play
+add kVA
+del kVA
+add kVA
+current
+del kVA
+ended
+current
+current
+ended
+add kVA
+del kVA
+current
+undo *
+list
+current
+next kVA
+next kVA
+next kVA
+undo
+list
+current
+next kVA
+del kVA
+stop
+ended
+stop
+play
+ended
+stop
+play
+list
+next kVA
+add kVA
+next kVA
+add kVA
+next kVA
+current
+current
+list
+add kVA
+add kVA
+del kVA
+del kVA
+undo *
+stop
+current
+add kVA
+stop
+ended
+next kVA
+current
+add kVA
+current
+list
+add kVA
+add kVA
+add kVA
+next kVA
+del kVA
+del kVA
+add kVA
+list
+undo
+stop
+current
+ended
+add kVA
+del kVA
+list
+next kVA
+fight

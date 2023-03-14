@@ -1,0 +1,71 @@
+ended
+play
+add PBwFRDIlLo
+current
+add PBwFRDIlLo
+ended
+del PBwFRDIlLo
+list
+stop
+add PBwFRDIlLo
+ended
+stop
+current
+next PBwFRDIlLo
+undo *
+undo
+del PBwFRDIlLo
+current
+add PBwFRDIlLo
+current
+current
+del PBwFRDIlLo
+add PBwFRDIlLo
+del PBwFRDIlLo
+undo *
+play
+add PBwFRDIlLo
+add PBwFRDIlLo
+del PBwFRDIlLo
+undo
+play
+undo *
+undo *
+undo *
+stop
+ended
+add PBwFRDIlLo
+stop
+stop
+undo *
+next PBwFRDIlLo
+next PBwFRDIlLo
+add PBwFRDIlLo
+ended
+play
+play
+list
+next PBwFRDIlLo
+play
+undo *
+stop
+next PBwFRDIlLo
+play
+stop
+next PBwFRDIlLo
+current
+list
+ended
+play
+play
+undo
+list
+next PBwFRDIlLo
+play
+ended
+stop
+next PBwFRDIlLo
+list
+list
+del PBwFRDIlLo
+fight

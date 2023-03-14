@@ -1,0 +1,623 @@
+del yonc
+stop
+add KpGFE
+del KpGFE
+del yonc
+current
+list
+stop
+current
+stop
+undo *
+del KpGFE
+current
+add yonc
+add KpGFE
+ended
+ended
+next KpGFE
+undo
+del yonc
+stop
+undo *
+ended
+next yonc
+del yonc
+stop
+ended
+stop
+next KpGFE
+next KpGFE
+current
+ended
+list
+ended
+undo
+del yonc
+list
+next yonc
+undo
+del yonc
+play
+next KpGFE
+play
+add yonc
+next KpGFE
+ended
+stop
+list
+del yonc
+del KpGFE
+add yonc
+add yonc
+del yonc
+play
+undo *
+ended
+undo
+stop
+add KpGFE
+add yonc
+next yonc
+next KpGFE
+undo
+next KpGFE
+stop
+list
+del yonc
+add yonc
+undo
+del yonc
+del KpGFE
+play
+next KpGFE
+next yonc
+play
+stop
+add KpGFE
+list
+ended
+stop
+ended
+current
+list
+next KpGFE
+play
+next yonc
+stop
+del KpGFE
+undo
+current
+del KpGFE
+undo
+next yonc
+ended
+current
+add yonc
+del yonc
+stop
+list
+undo *
+ended
+add yonc
+stop
+current
+stop
+add yonc
+next KpGFE
+del yonc
+stop
+undo
+play
+play
+next KpGFE
+current
+del yonc
+list
+next KpGFE
+play
+undo *
+add KpGFE
+del KpGFE
+stop
+current
+ended
+next yonc
+add yonc
+play
+list
+play
+next KpGFE
+add yonc
+undo
+stop
+stop
+ended
+current
+ended
+next yonc
+current
+undo
+undo *
+stop
+del KpGFE
+add yonc
+del yonc
+list
+ended
+undo *
+list
+del yonc
+next KpGFE
+del KpGFE
+play
+current
+add KpGFE
+current
+stop
+ended
+ended
+ended
+undo
+stop
+current
+ended
+current
+current
+next KpGFE
+add KpGFE
+del KpGFE
+add yonc
+play
+current
+add yonc
+add KpGFE
+undo
+stop
+current
+undo
+current
+ended
+undo
+next KpGFE
+stop
+add yonc
+ended
+next KpGFE
+add yonc
+current
+play
+undo
+del KpGFE
+current
+list
+stop
+stop
+undo *
+list
+add KpGFE
+list
+play
+play
+list
+del yonc
+ended
+stop
+stop
+play
+play
+del yonc
+list
+play
+stop
+ended
+next KpGFE
+current
+add yonc
+next yonc
+stop
+stop
+current
+list
+current
+add KpGFE
+list
+play
+play
+stop
+ended
+add KpGFE
+del yonc
+del KpGFE
+next yonc
+next yonc
+add yonc
+add KpGFE
+play
+add KpGFE
+undo *
+ended
+next KpGFE
+ended
+stop
+list
+stop
+ended
+play
+del yonc
+list
+undo
+current
+stop
+current
+undo
+ended
+ended
+del yonc
+current
+next yonc
+play
+del KpGFE
+undo *
+ended
+list
+undo
+del KpGFE
+ended
+del KpGFE
+stop
+add yonc
+current
+stop
+add yonc
+ended
+play
+stop
+ended
+ended
+undo *
+del yonc
+stop
+play
+undo
+next yonc
+stop
+next KpGFE
+stop
+del yonc
+add yonc
+add KpGFE
+list
+play
+ended
+stop
+play
+current
+play
+play
+del yonc
+del yonc
+list
+current
+next yonc
+undo *
+play
+list
+stop
+current
+play
+ended
+stop
+ended
+next yonc
+add yonc
+stop
+current
+ended
+list
+del yonc
+list
+stop
+add KpGFE
+del KpGFE
+ended
+next KpGFE
+next yonc
+add KpGFE
+current
+list
+list
+stop
+play
+del yonc
+current
+play
+next KpGFE
+add KpGFE
+ended
+play
+next yonc
+current
+add KpGFE
+add KpGFE
+play
+del yonc
+stop
+undo
+play
+ended
+play
+current
+add yonc
+next yonc
+next yonc
+list
+undo *
+play
+add KpGFE
+current
+stop
+ended
+undo *
+del KpGFE
+add yonc
+next KpGFE
+stop
+play
+add yonc
+undo *
+next KpGFE
+current
+current
+ended
+undo *
+undo *
+undo
+play
+current
+list
+del KpGFE
+list
+add KpGFE
+del KpGFE
+current
+next KpGFE
+current
+del yonc
+undo
+stop
+list
+add yonc
+next yonc
+play
+del yonc
+current
+ended
+current
+current
+next yonc
+del yonc
+list
+list
+add KpGFE
+stop
+del yonc
+next yonc
+undo *
+add KpGFE
+del KpGFE
+ended
+add yonc
+undo *
+stop
+add KpGFE
+list
+current
+stop
+list
+current
+stop
+del KpGFE
+current
+ended
+play
+list
+list
+add yonc
+current
+add yonc
+list
+add yonc
+list
+play
+stop
+undo
+current
+undo *
+del KpGFE
+current
+play
+del KpGFE
+play
+stop
+list
+add KpGFE
+del KpGFE
+play
+next KpGFE
+stop
+list
+add yonc
+stop
+current
+stop
+add yonc
+play
+play
+undo *
+add yonc
+del yonc
+undo *
+add yonc
+undo
+undo *
+ended
+current
+list
+stop
+list
+undo
+next yonc
+undo
+ended
+add yonc
+del KpGFE
+play
+list
+del KpGFE
+play
+add yonc
+undo
+next yonc
+add yonc
+ended
+play
+play
+play
+list
+stop
+undo
+list
+next yonc
+play
+play
+list
+add yonc
+undo
+stop
+del yonc
+list
+ended
+current
+play
+play
+add KpGFE
+next yonc
+next KpGFE
+ended
+next yonc
+current
+del yonc
+list
+current
+list
+current
+ended
+list
+add KpGFE
+del yonc
+play
+list
+play
+next yonc
+undo
+play
+stop
+del KpGFE
+next KpGFE
+list
+current
+stop
+next KpGFE
+del yonc
+current
+current
+play
+undo *
+ended
+list
+del KpGFE
+ended
+play
+del yonc
+next yonc
+list
+next KpGFE
+stop
+undo *
+undo
+list
+stop
+list
+list
+list
+add yonc
+ended
+next yonc
+list
+next KpGFE
+play
+stop
+play
+current
+play
+list
+stop
+stop
+stop
+del yonc
+play
+stop
+stop
+next yonc
+ended
+undo
+stop
+next yonc
+undo
+list
+del KpGFE
+list
+list
+add KpGFE
+undo
+play
+del KpGFE
+add KpGFE
+next KpGFE
+add KpGFE
+undo *
+del KpGFE
+add yonc
+next KpGFE
+current
+del yonc
+next KpGFE
+current
+next yonc
+play
+play
+add KpGFE
+add yonc
+next KpGFE
+list
+list
+undo *
+del KpGFE
+add yonc
+list
+stop
+list
+play
+ended
+play
+del KpGFE
+ended
+list
+stop
+undo *
+play
+ended
+add yonc
+undo *
+fight

@@ -1,0 +1,118 @@
+add SbQ
+undo *
+undo
+play
+list
+next SbQ
+add SbQ
+play
+current
+next SbQ
+add SbQ
+ended
+current
+current
+stop
+current
+list
+play
+del SbQ
+del SbQ
+add SbQ
+stop
+current
+play
+ended
+del SbQ
+add SbQ
+undo *
+stop
+list
+current
+list
+list
+next SbQ
+undo
+stop
+next SbQ
+add SbQ
+list
+undo *
+add SbQ
+add SbQ
+play
+add SbQ
+play
+stop
+stop
+play
+add SbQ
+stop
+ended
+play
+ended
+next SbQ
+add SbQ
+undo *
+undo *
+del SbQ
+ended
+undo *
+undo *
+list
+undo
+add SbQ
+next SbQ
+undo *
+current
+add SbQ
+undo *
+list
+next SbQ
+del SbQ
+current
+del SbQ
+current
+next SbQ
+play
+next SbQ
+current
+next SbQ
+ended
+next SbQ
+del SbQ
+undo *
+current
+list
+play
+list
+play
+add SbQ
+undo
+del SbQ
+undo *
+ended
+current
+current
+current
+del SbQ
+ended
+del SbQ
+ended
+next SbQ
+stop
+next SbQ
+list
+del SbQ
+ended
+add SbQ
+current
+play
+undo *
+stop
+del SbQ
+del SbQ
+next SbQ
+ended
+current
+fight

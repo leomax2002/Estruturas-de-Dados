@@ -1,0 +1,41 @@
+ended
+del CSsz
+ended
+undo *
+del CSsz
+current
+add N
+play
+list
+stop
+play
+next YXsm
+next CSsz
+undo
+add YXsm
+undo *
+next CSsz
+ended
+del CSsz
+ended
+current
+undo
+next N
+current
+next N
+del N
+list
+stop
+add YXsm
+add CSsz
+add YXsm
+add YXsm
+next YXsm
+next YXsm
+stop
+list
+play
+list
+stop
+ended
+fight

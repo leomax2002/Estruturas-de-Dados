@@ -1,0 +1,398 @@
+undo
+current
+del LdSG
+add LdSG
+next QOPem
+add uAdb
+play
+next QOPem
+ended
+current
+list
+ended
+list
+undo
+list
+current
+del QOPem
+del QOPem
+list
+del uAdb
+ended
+undo
+current
+ended
+list
+del uAdb
+ended
+undo *
+del QOPem
+del LdSG
+undo *
+list
+next LdSG
+current
+next QOPem
+stop
+current
+add QOPem
+undo *
+play
+undo *
+next uAdb
+del LdSG
+undo
+next uAdb
+undo
+next LdSG
+current
+stop
+ended
+stop
+next QOPem
+list
+play
+undo *
+undo
+play
+add uAdb
+current
+stop
+del QOPem
+undo *
+stop
+ended
+del uAdb
+del uAdb
+stop
+list
+current
+stop
+add QOPem
+play
+list
+undo
+current
+undo
+play
+next uAdb
+current
+stop
+stop
+play
+undo *
+undo *
+play
+ended
+play
+play
+undo *
+del QOPem
+next uAdb
+stop
+stop
+current
+del uAdb
+next LdSG
+next QOPem
+stop
+undo *
+ended
+add uAdb
+add uAdb
+stop
+list
+play
+add uAdb
+next LdSG
+current
+stop
+add uAdb
+ended
+ended
+next LdSG
+next uAdb
+next LdSG
+current
+next QOPem
+next QOPem
+del LdSG
+stop
+del QOPem
+play
+stop
+list
+play
+del uAdb
+next uAdb
+del LdSG
+list
+current
+add QOPem
+ended
+play
+del QOPem
+current
+add uAdb
+del uAdb
+play
+current
+current
+list
+add LdSG
+del LdSG
+ended
+del LdSG
+stop
+current
+del LdSG
+next QOPem
+undo
+ended
+del QOPem
+play
+add uAdb
+play
+undo *
+list
+stop
+ended
+list
+next uAdb
+add uAdb
+play
+undo
+add QOPem
+del LdSG
+play
+undo *
+ended
+del uAdb
+list
+current
+list
+current
+ended
+stop
+play
+list
+stop
+play
+stop
+ended
+del LdSG
+add LdSG
+list
+list
+stop
+add uAdb
+undo *
+add QOPem
+play
+undo *
+play
+undo *
+current
+stop
+stop
+undo *
+del LdSG
+stop
+add QOPem
+del uAdb
+play
+undo *
+add QOPem
+add uAdb
+play
+undo
+list
+ended
+del QOPem
+del uAdb
+list
+play
+play
+ended
+undo *
+ended
+undo
+play
+del uAdb
+add uAdb
+play
+list
+add LdSG
+next LdSG
+del uAdb
+del LdSG
+play
+add uAdb
+current
+stop
+list
+current
+stop
+add QOPem
+next LdSG
+ended
+current
+current
+next LdSG
+ended
+current
+undo
+next QOPem
+ended
+current
+play
+list
+undo *
+current
+stop
+next LdSG
+add uAdb
+next LdSG
+add QOPem
+stop
+stop
+stop
+list
+next QOPem
+ended
+ended
+next uAdb
+undo
+ended
+play
+current
+play
+play
+list
+del QOPem
+next LdSG
+list
+stop
+current
+play
+list
+ended
+ended
+ended
+undo *
+ended
+ended
+play
+play
+next QOPem
+stop
+del LdSG
+stop
+list
+current
+stop
+current
+play
+undo
+undo
+ended
+add LdSG
+add QOPem
+del QOPem
+add LdSG
+add uAdb
+list
+stop
+next LdSG
+stop
+next uAdb
+current
+next uAdb
+stop
+list
+undo
+undo *
+list
+stop
+next uAdb
+undo
+list
+del QOPem
+add LdSG
+add LdSG
+current
+next uAdb
+ended
+stop
+undo *
+del QOPem
+next QOPem
+del uAdb
+play
+stop
+list
+list
+undo *
+add uAdb
+next uAdb
+list
+next LdSG
+del uAdb
+play
+undo
+add uAdb
+list
+play
+next LdSG
+list
+del QOPem
+stop
+next uAdb
+play
+ended
+stop
+current
+undo *
+add QOPem
+del QOPem
+next uAdb
+current
+add QOPem
+del QOPem
+add LdSG
+ended
+ended
+stop
+undo *
+del LdSG
+undo
+next QOPem
+ended
+del QOPem
+current
+undo
+del QOPem
+del QOPem
+del QOPem
+current
+next uAdb
+del QOPem
+play
+current
+add LdSG
+add QOPem
+undo *
+play
+undo *
+undo *
+list
+del QOPem
+play
+del uAdb
+ended
+list
+del QOPem
+current
+ended
+current
+fight

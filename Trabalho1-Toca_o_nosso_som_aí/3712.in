@@ -1,0 +1,172 @@
+del txQG
+add txQG
+play
+add txQG
+undo *
+del txQG
+undo
+del txQG
+del txQG
+ended
+next txQG
+play
+list
+play
+play
+play
+next txQG
+add txQG
+stop
+ended
+add txQG
+play
+undo *
+list
+add txQG
+list
+next txQG
+list
+next txQG
+del txQG
+list
+play
+current
+list
+stop
+stop
+del txQG
+current
+play
+add txQG
+current
+stop
+play
+del txQG
+play
+current
+play
+del txQG
+current
+list
+add txQG
+ended
+stop
+add txQG
+stop
+ended
+play
+del txQG
+next txQG
+play
+play
+play
+next txQG
+ended
+play
+add txQG
+current
+play
+del txQG
+current
+play
+current
+current
+current
+del txQG
+add txQG
+current
+next txQG
+next txQG
+list
+current
+next txQG
+del txQG
+stop
+undo
+play
+current
+current
+play
+current
+undo
+play
+current
+undo
+list
+play
+undo *
+current
+undo
+current
+next txQG
+next txQG
+current
+add txQG
+current
+ended
+next txQG
+undo
+undo *
+del txQG
+list
+ended
+stop
+stop
+current
+ended
+list
+del txQG
+list
+current
+next txQG
+play
+next txQG
+next txQG
+next txQG
+undo
+list
+add txQG
+del txQG
+ended
+current
+current
+list
+add txQG
+undo *
+next txQG
+add txQG
+undo
+stop
+add txQG
+del txQG
+add txQG
+ended
+current
+ended
+play
+del txQG
+current
+next txQG
+add txQG
+next txQG
+undo *
+list
+play
+undo *
+undo *
+del txQG
+play
+del txQG
+list
+stop
+play
+ended
+list
+list
+add txQG
+ended
+current
+current
+play
+next txQG
+fight

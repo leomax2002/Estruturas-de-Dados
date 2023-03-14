@@ -1,0 +1,28 @@
+play
+undo
+undo *
+next aNl
+ended
+next mbRbHZ
+ended
+del mbRbHZ
+next aNl
+del aNl
+play
+current
+del mbRbHZ
+stop
+next aNl
+add mbRbHZ
+next Ll
+undo *
+current
+del Ll
+ended
+current
+play
+ended
+undo *
+del aNl
+current
+fight

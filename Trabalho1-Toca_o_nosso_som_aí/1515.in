@@ -1,0 +1,43 @@
+play
+del NtOLti
+stop
+undo
+current
+play
+ended
+current
+ended
+undo *
+add NtOLti
+next km
+next km
+del y
+del km
+current
+add NtOLti
+current
+current
+play
+ended
+current
+del y
+undo *
+ended
+current
+current
+del km
+add NtOLti
+play
+play
+del km
+del y
+next y
+next NtOLti
+play
+add NtOLti
+ended
+ended
+undo *
+current
+del km
+fight

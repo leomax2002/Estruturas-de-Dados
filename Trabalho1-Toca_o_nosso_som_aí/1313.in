@@ -1,0 +1,58 @@
+list
+stop
+del EI
+undo
+current
+undo *
+play
+stop
+ended
+add EI
+stop
+play
+current
+list
+list
+play
+stop
+next EI
+undo
+ended
+add EI
+del fbOrI
+ended
+stop
+list
+list
+stop
+add JvbMV
+del fbOrI
+add EI
+current
+del fbOrI
+current
+next EI
+next EI
+ended
+current
+add JvbMV
+undo *
+list
+undo
+ended
+add fbOrI
+next JvbMV
+list
+list
+current
+undo *
+del EI
+add JvbMV
+current
+play
+undo *
+ended
+stop
+play
+add EI
+fight

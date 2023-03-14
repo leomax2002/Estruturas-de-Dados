@@ -1,0 +1,60 @@
+del xGbz
+next CQRAKRRnE
+next xGbz
+list
+next CQRAKRRnE
+play
+list
+next xGbz
+undo *
+current
+ended
+add xGbz
+del xGbz
+del xGbz
+undo
+stop
+list
+current
+del xGbz
+play
+ended
+add CQRAKRRnE
+del xGbz
+current
+play
+undo *
+current
+del xGbz
+undo *
+play
+add xGbz
+del CQRAKRRnE
+list
+current
+ended
+next xGbz
+add xGbz
+current
+play
+current
+next CQRAKRRnE
+stop
+next xGbz
+current
+add xGbz
+next CQRAKRRnE
+undo
+undo
+undo
+stop
+ended
+next xGbz
+del xGbz
+next CQRAKRRnE
+undo *
+current
+add CQRAKRRnE
+undo *
+undo *
+fight

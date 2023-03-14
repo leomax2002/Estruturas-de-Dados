@@ -1,0 +1,24 @@
+undo *
+add KcNF
+ended
+stop
+add KcNF
+add FWdyBRJo
+next KcNF
+add KcNF
+del ctbcl
+next KcNF
+current
+play
+next FWdyBRJo
+list
+del KcNF
+next KcNF
+play
+undo *
+list
+stop
+stop
+play
+play
+fight

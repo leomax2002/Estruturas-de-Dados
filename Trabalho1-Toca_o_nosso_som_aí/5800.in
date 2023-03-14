@@ -1,0 +1,40 @@
+stop
+ended
+list
+stop
+stop
+current
+current
+add oXT
+stop
+list
+undo
+add oXT
+del zAUSNGFA
+del zAUSNGFA
+current
+undo
+list
+ended
+add oXT
+list
+play
+undo
+undo
+stop
+ended
+next zAUSNGFA
+undo *
+del zAUSNGFA
+play
+play
+ended
+del zAUSNGFA
+list
+next zAUSNGFA
+ended
+del zAUSNGFA
+del U
+stop
+play
+fight

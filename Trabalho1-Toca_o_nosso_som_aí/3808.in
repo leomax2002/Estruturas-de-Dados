@@ -1,0 +1,72 @@
+current
+current
+next jf
+del WLH
+list
+list
+play
+add jf
+add x
+current
+undo
+stop
+play
+undo *
+stop
+current
+list
+ended
+stop
+del uQ
+del x
+next WLH
+undo *
+add x
+play
+add uQ
+undo
+add W
+next uQ
+undo
+ended
+del x
+ended
+next jf
+current
+stop
+add jf
+del x
+add uQ
+del WLH
+undo
+undo
+ended
+current
+del x
+current
+list
+list
+undo *
+play
+current
+list
+list
+next W
+undo
+current
+stop
+ended
+next uQ
+next W
+add x
+play
+list
+stop
+play
+next W
+undo *
+undo *
+play
+stop
+del uQ
+fight

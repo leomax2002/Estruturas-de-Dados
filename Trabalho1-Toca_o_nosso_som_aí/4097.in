@@ -1,0 +1,19 @@
+list
+play
+list
+add Zn
+list
+ended
+del DKJ
+stop
+next Zn
+stop
+list
+list
+current
+undo *
+list
+list
+next P
+undo
+fight

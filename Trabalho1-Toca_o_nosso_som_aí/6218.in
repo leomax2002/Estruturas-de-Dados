@@ -1,0 +1,77 @@
+list
+del aXNB
+list
+ended
+play
+add aXNB
+list
+current
+del aXNB
+add aXNB
+play
+add aXNB
+current
+ended
+stop
+next aXNB
+list
+ended
+undo
+del aXNB
+current
+stop
+del aXNB
+list
+current
+ended
+ended
+del aXNB
+stop
+play
+ended
+undo *
+current
+next aXNB
+del aXNB
+next aXNB
+list
+stop
+del aXNB
+next aXNB
+stop
+list
+next aXNB
+list
+ended
+ended
+play
+list
+add aXNB
+del aXNB
+ended
+add aXNB
+play
+current
+undo
+next aXNB
+del aXNB
+del aXNB
+play
+stop
+undo *
+ended
+add aXNB
+add aXNB
+ended
+current
+next aXNB
+stop
+ended
+play
+list
+stop
+stop
+add aXNB
+add aXNB
+play
+fight

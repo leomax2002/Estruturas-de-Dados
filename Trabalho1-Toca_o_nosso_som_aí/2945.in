@@ -1,0 +1,57 @@
+next fQMyTQ
+ended
+current
+play
+ended
+play
+ended
+undo *
+add lW
+next fQMyTQ
+undo
+undo
+next fQMyTQ
+add fQMyTQ
+stop
+stop
+current
+del fQMyTQ
+play
+ended
+play
+del lW
+add lW
+undo *
+undo
+stop
+stop
+stop
+current
+add lW
+ended
+add lW
+next lW
+list
+del fQMyTQ
+play
+undo
+ended
+current
+stop
+list
+del lW
+play
+list
+add lW
+add lW
+current
+undo
+ended
+del fQMyTQ
+current
+del lW
+undo *
+play
+ended
+add fQMyTQ
+fight

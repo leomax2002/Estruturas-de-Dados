@@ -1,0 +1,493 @@
+play
+stop
+del LuDFriLV
+add Z
+list
+play
+add r
+ended
+del LuDFriLV
+stop
+del Z
+current
+del LuDFriLV
+undo *
+undo
+list
+add Z
+del Z
+ended
+del r
+add r
+del Z
+list
+add LuDFriLV
+current
+list
+next Z
+stop
+stop
+del Z
+next r
+list
+list
+current
+list
+play
+ended
+stop
+ended
+stop
+ended
+ended
+stop
+add LuDFriLV
+play
+del r
+ended
+list
+current
+next r
+add Z
+stop
+next r
+current
+play
+stop
+next LuDFriLV
+next Z
+ended
+undo
+next r
+list
+next LuDFriLV
+current
+add r
+add r
+ended
+list
+ended
+del Z
+add Z
+next LuDFriLV
+play
+undo
+ended
+current
+next Z
+ended
+ended
+next r
+next r
+add LuDFriLV
+play
+current
+add LuDFriLV
+add r
+current
+undo
+ended
+undo *
+list
+play
+play
+current
+ended
+current
+list
+play
+add Z
+play
+undo *
+ended
+undo
+add r
+del Z
+undo
+play
+current
+play
+add Z
+add r
+current
+current
+ended
+del Z
+stop
+list
+undo *
+play
+next r
+list
+list
+next r
+add LuDFriLV
+ended
+stop
+play
+del Z
+del Z
+undo
+del LuDFriLV
+del r
+play
+stop
+ended
+undo
+undo *
+stop
+ended
+play
+add LuDFriLV
+current
+add r
+stop
+next LuDFriLV
+ended
+add Z
+add r
+list
+play
+play
+stop
+stop
+current
+next LuDFriLV
+next LuDFriLV
+del Z
+current
+del LuDFriLV
+del Z
+list
+undo
+next Z
+list
+add Z
+undo *
+undo
+play
+next Z
+play
+play
+stop
+play
+stop
+del LuDFriLV
+del r
+add r
+play
+play
+next Z
+play
+list
+play
+ended
+next LuDFriLV
+current
+list
+ended
+next Z
+next LuDFriLV
+add r
+stop
+current
+del LuDFriLV
+del r
+undo
+stop
+del r
+play
+ended
+play
+add r
+current
+current
+undo *
+stop
+stop
+add LuDFriLV
+list
+current
+play
+play
+current
+add r
+next r
+add r
+current
+current
+ended
+play
+current
+stop
+list
+current
+undo
+stop
+add r
+add LuDFriLV
+undo
+undo
+add LuDFriLV
+play
+list
+current
+next r
+del LuDFriLV
+stop
+current
+current
+ended
+undo *
+add r
+stop
+stop
+list
+ended
+play
+add Z
+play
+undo
+undo
+undo *
+undo
+undo
+ended
+list
+play
+add LuDFriLV
+play
+next r
+next LuDFriLV
+add Z
+del LuDFriLV
+del Z
+del r
+stop
+list
+play
+del Z
+list
+del LuDFriLV
+list
+del Z
+list
+undo
+stop
+next r
+list
+add Z
+del Z
+del LuDFriLV
+current
+undo
+next LuDFriLV
+current
+add Z
+stop
+play
+current
+del LuDFriLV
+undo
+add Z
+current
+undo *
+undo *
+current
+next r
+undo
+play
+add Z
+undo *
+ended
+undo
+next LuDFriLV
+stop
+undo *
+list
+ended
+add r
+del LuDFriLV
+stop
+stop
+stop
+stop
+list
+ended
+del LuDFriLV
+add Z
+play
+list
+add Z
+list
+list
+add Z
+next r
+del Z
+add r
+current
+stop
+current
+undo *
+undo *
+list
+del r
+current
+list
+undo *
+next Z
+undo *
+list
+list
+ended
+current
+stop
+ended
+list
+next r
+current
+undo
+list
+play
+current
+play
+undo *
+current
+current
+current
+del r
+current
+stop
+play
+play
+list
+next LuDFriLV
+undo
+add Z
+current
+del LuDFriLV
+play
+ended
+stop
+play
+play
+next LuDFriLV
+stop
+list
+del Z
+play
+del Z
+current
+ended
+undo
+list
+stop
+ended
+ended
+stop
+undo
+undo
+list
+current
+stop
+ended
+del r
+current
+add r
+stop
+ended
+next Z
+current
+undo *
+undo
+play
+next Z
+ended
+undo
+next Z
+next LuDFriLV
+play
+list
+list
+list
+undo *
+stop
+next LuDFriLV
+stop
+ended
+play
+add LuDFriLV
+list
+current
+stop
+undo
+undo
+undo
+stop
+play
+del r
+del r
+play
+list
+ended
+current
+stop
+stop
+stop
+current
+stop
+current
+current
+current
+next r
+stop
+undo *
+current
+next Z
+list
+play
+del LuDFriLV
+del Z
+undo *
+stop
+play
+add LuDFriLV
+play
+ended
+add Z
+add Z
+stop
+current
+current
+del Z
+current
+ended
+undo *
+ended
+list
+stop
+ended
+undo *
+undo *
+ended
+add LuDFriLV
+current
+next Z
+next Z
+list
+undo
+stop
+next r
+current
+next r
+ended
+current
+ended
+list
+undo *
+ended
+add Z
+ended
+ended
+next LuDFriLV
+fight

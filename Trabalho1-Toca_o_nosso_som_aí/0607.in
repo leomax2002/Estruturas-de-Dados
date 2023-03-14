@@ -1,0 +1,55 @@
+play
+stop
+ended
+list
+play
+next mRuwmyuRf
+undo *
+add joX
+list
+ended
+undo
+add joX
+undo *
+stop
+play
+next mRuwmyuRf
+stop
+ended
+play
+stop
+del ZQL
+add mRuwmyuRf
+del ZQL
+add ZQL
+next mRuwmyuRf
+stop
+ended
+next ZQL
+undo
+add mRuwmyuRf
+del mRuwmyuRf
+del joX
+list
+next mRuwmyuRf
+play
+ended
+stop
+next joX
+add joX
+undo *
+ended
+ended
+list
+ended
+del ZQL
+next mRuwmyuRf
+ended
+current
+next ZQL
+undo
+add ZQL
+stop
+del ZQL
+add mRuwmyuRf
+fight

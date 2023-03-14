@@ -1,0 +1,407 @@
+del W
+stop
+add W
+undo *
+current
+current
+list
+undo
+undo *
+next mvY
+next W
+list
+list
+next mvY
+play
+del mvY
+list
+play
+undo *
+current
+current
+add W
+play
+current
+undo
+stop
+stop
+undo *
+next W
+stop
+ended
+stop
+undo
+undo *
+ended
+undo *
+list
+current
+list
+del W
+stop
+del W
+del W
+undo *
+list
+list
+del W
+play
+undo *
+play
+stop
+stop
+next mvY
+add mvY
+add W
+ended
+ended
+current
+ended
+ended
+current
+del W
+play
+stop
+play
+list
+ended
+list
+stop
+add mvY
+undo *
+del W
+stop
+del mvY
+next mvY
+next W
+stop
+stop
+list
+stop
+ended
+play
+stop
+del W
+play
+undo *
+add W
+play
+next W
+stop
+undo *
+stop
+next W
+list
+stop
+stop
+add W
+undo
+del mvY
+play
+current
+add W
+add W
+undo *
+play
+current
+current
+current
+ended
+list
+add W
+play
+ended
+undo
+stop
+stop
+stop
+stop
+del mvY
+stop
+list
+ended
+play
+add mvY
+stop
+ended
+list
+stop
+ended
+add W
+add W
+ended
+del W
+current
+next W
+list
+next W
+play
+undo *
+add mvY
+undo *
+ended
+list
+list
+current
+undo
+next mvY
+ended
+next W
+add mvY
+undo
+list
+add mvY
+next W
+stop
+add mvY
+undo
+next mvY
+play
+next W
+del mvY
+play
+del mvY
+stop
+undo
+play
+next W
+add mvY
+next W
+ended
+del W
+add W
+ended
+add W
+play
+ended
+list
+ended
+current
+list
+play
+add mvY
+stop
+ended
+ended
+play
+stop
+undo
+undo *
+ended
+undo *
+play
+stop
+undo
+next mvY
+current
+undo
+stop
+stop
+next W
+stop
+undo
+undo *
+current
+next W
+next mvY
+list
+current
+add mvY
+next mvY
+ended
+current
+play
+ended
+ended
+ended
+list
+add mvY
+undo *
+add mvY
+play
+current
+next mvY
+next mvY
+play
+undo *
+current
+stop
+list
+undo
+play
+del W
+next W
+ended
+play
+list
+add W
+next mvY
+current
+undo *
+undo
+list
+add mvY
+list
+add mvY
+add W
+current
+ended
+list
+play
+undo
+del W
+next W
+next W
+del mvY
+play
+add mvY
+next mvY
+add mvY
+add W
+stop
+list
+next W
+list
+stop
+next W
+stop
+del W
+next W
+ended
+list
+list
+stop
+next W
+list
+stop
+del W
+play
+stop
+del W
+current
+add W
+undo
+del W
+stop
+ended
+ended
+undo *
+undo
+ended
+next mvY
+current
+undo *
+current
+ended
+list
+del W
+add mvY
+play
+current
+ended
+next mvY
+current
+ended
+current
+stop
+add mvY
+play
+list
+list
+list
+list
+stop
+undo
+stop
+stop
+add W
+play
+add mvY
+list
+ended
+add W
+next mvY
+play
+ended
+next W
+ended
+undo *
+current
+next W
+current
+ended
+stop
+stop
+del mvY
+stop
+play
+play
+add W
+next mvY
+stop
+ended
+list
+current
+stop
+undo
+stop
+del mvY
+list
+play
+ended
+list
+play
+stop
+undo *
+ended
+del W
+ended
+del mvY
+list
+undo
+add mvY
+add W
+ended
+del W
+ended
+play
+stop
+ended
+next mvY
+undo
+add W
+list
+stop
+play
+del mvY
+undo
+add mvY
+undo
+stop
+add mvY
+del W
+del W
+next mvY
+next mvY
+list
+add mvY
+list
+current
+stop
+list
+add W
+del mvY
+play
+current
+next mvY
+list
+next W
+play
+next mvY
+del W
+current
+undo
+add W
+stop
+stop
+fight

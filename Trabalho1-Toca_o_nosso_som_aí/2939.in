@@ -1,0 +1,65 @@
+next hSkZ
+stop
+add hSkZ
+del hSkZ
+ended
+list
+ended
+list
+undo *
+undo *
+list
+ended
+stop
+list
+ended
+del ARI
+play
+add ARI
+next hSkZ
+list
+next hSkZ
+add hSkZ
+stop
+ended
+play
+next ARI
+play
+stop
+play
+next hSkZ
+list
+undo
+ended
+add ARI
+play
+undo
+next hSkZ
+play
+stop
+add ARI
+play
+list
+ended
+del ARI
+next hSkZ
+ended
+stop
+add ARI
+next ARI
+current
+ended
+list
+add hSkZ
+ended
+stop
+ended
+play
+ended
+ended
+add ARI
+ended
+del ARI
+current
+play
+fight

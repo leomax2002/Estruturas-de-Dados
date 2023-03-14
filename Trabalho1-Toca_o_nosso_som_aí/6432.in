@@ -1,0 +1,146 @@
+add XAD
+next XAD
+del XAD
+undo *
+play
+add XAD
+del XAD
+stop
+undo *
+add XAD
+next XAD
+add XAD
+stop
+list
+undo
+ended
+add XAD
+ended
+current
+undo
+undo *
+add XAD
+ended
+undo
+del XAD
+del XAD
+list
+play
+undo
+add XAD
+ended
+current
+del XAD
+list
+next XAD
+play
+current
+stop
+current
+add XAD
+stop
+add XAD
+play
+current
+list
+next XAD
+del XAD
+current
+play
+next XAD
+ended
+play
+current
+del XAD
+current
+next XAD
+undo *
+list
+current
+del XAD
+undo *
+next XAD
+current
+undo *
+undo
+del XAD
+play
+add XAD
+ended
+stop
+del XAD
+play
+current
+play
+ended
+current
+current
+stop
+next XAD
+add XAD
+del XAD
+list
+undo
+current
+add XAD
+ended
+next XAD
+undo *
+stop
+stop
+undo *
+stop
+current
+play
+stop
+stop
+next XAD
+list
+add XAD
+undo *
+next XAD
+ended
+add XAD
+add XAD
+add XAD
+del XAD
+next XAD
+current
+next XAD
+current
+ended
+next XAD
+next XAD
+ended
+current
+undo
+play
+stop
+ended
+next XAD
+add XAD
+add XAD
+current
+ended
+current
+current
+del XAD
+next XAD
+add XAD
+del XAD
+list
+add XAD
+current
+play
+undo
+del XAD
+undo
+list
+next XAD
+ended
+next XAD
+add XAD
+stop
+ended
+add XAD
+fight
